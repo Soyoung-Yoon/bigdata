@@ -1,0 +1,1001 @@
+main_topic,sub_topic,problem_id,student_id,correct
+data science,data visualization,160,74,0
+physics,quantum physics,90,48,0
+mathematics,calculus,31,49,0
+computer science,computer networks,32,85,0
+mathematics,linear algebra,200,31,0
+physics,thermodynamics,125,52,0
+computer science,data structures,3,63,0
+computer science,database systems,129,90,0
+computer science,database systems,76,21,1
+computer science,database systems,29,40,1
+mathematics,calculus,88,49,0
+physics,mechanics,55,17,1
+computer science,database systems,164,45,1
+data science,deep learning,122,54,1
+mathematics,linear algebra,181,29,0
+data science,big data analytics,46,15,1
+physics,quantum physics,140,48,0
+data science,data visualization,82,28,1
+mathematics,calculus,97,16,0
+computer science,database systems,122,27,1
+computer science,computer networks,111,35,0
+physics,electromagnetism,183,57,0
+mathematics,calculus,125,40,1
+data science,machine learning,176,61,1
+computer science,algorithms,64,5,1
+physics,quantum physics,51,87,1
+data science,data preprocessing,57,2,0
+physics,quantum physics,13,63,0
+data science,deep learning,165,51,1
+computer science,data structures,20,20,0
+mathematics,calculus,35,6,0
+computer science,data structures,71,95,1
+data science,deep learning,190,12,1
+mathematics,statistics,41,3,0
+computer science,data structures,180,48,1
+computer science,computer networks,157,48,1
+data science,data visualization,10,63,1
+mathematics,statistics,149,85,0
+mathematics,statistics,33,85,0
+data science,data visualization,115,79,0
+mathematics,statistics,169,9,1
+data science,big data analytics,46,85,1
+computer science,data structures,48,81,1
+mathematics,statistics,6,18,0
+mathematics,statistics,7,4,0
+computer science,operating systems,131,49,0
+computer science,database systems,134,1,1
+computer science,computer networks,79,91,1
+data science,data preprocessing,16,17,1
+physics,electromagnetism,11,44,0
+computer science,data structures,81,36,1
+computer science,algorithms,141,44,0
+data science,machine learning,168,87,1
+computer science,algorithms,116,11,0
+data science,machine learning,117,96,1
+data science,machine learning,117,15,1
+data science,data preprocessing,191,70,1
+computer science,data structures,171,15,0
+computer science,algorithms,30,14,0
+physics,electromagnetism,159,55,0
+computer science,algorithms,100,20,0
+mathematics,discrete mathematics,200,26,1
+data science,data visualization,63,21,0
+computer science,operating systems,158,31,0
+physics,mechanics,36,6,1
+physics,thermodynamics,73,14,1
+physics,electromagnetism,139,56,0
+computer science,data structures,35,16,1
+computer science,database systems,156,92,0
+mathematics,geometry,159,35,0
+data science,data visualization,143,69,1
+computer science,data structures,88,43,0
+computer science,operating systems,37,57,0
+data science,data visualization,84,77,1
+physics,quantum physics,53,10,0
+data science,data visualization,138,69,1
+mathematics,geometry,179,34,0
+data science,big data analytics,58,32,0
+mathematics,discrete mathematics,44,67,0
+physics,mechanics,150,40,1
+computer science,algorithms,80,16,1
+computer science,algorithms,200,90,0
+computer science,algorithms,201,91,1
+computer science,algorithms,202,92,1
+physics,thermodynamics,38,6,0
+mathematics,geometry,155,50,1
+data science,data visualization,152,92,0
+mathematics,discrete mathematics,174,78,0
+mathematics,statistics,30,83,0
+physics,mechanics,19,4,1
+data science,data preprocessing,165,88,0
+data science,deep learning,101,63,0
+computer science,data structures,91,30,0
+mathematics,linear algebra,42,9,1
+computer science,operating systems,134,80,0
+computer science,algorithms,89,88,0
+data science,big data analytics,77,87,1
+data science,data preprocessing,69,81,0
+computer science,data structures,6,3,0
+computer science,database systems,123,52,1
+computer science,database systems,83,55,1
+mathematics,linear algebra,69,77,1
+computer science,operating systems,149,57,0
+physics,electromagnetism,170,20,0
+physics,thermodynamics,75,32,0
+data science,machine learning,104,64,0
+computer science,database systems,138,85,0
+mathematics,statistics,10,62,0
+mathematics,calculus,86,17,1
+physics,electromagnetism,145,41,0
+physics,electromagnetism,22,81,1
+physics,quantum physics,175,95,1
+physics,quantum physics,125,67,1
+mathematics,calculus,150,54,0
+data science,data visualization,43,85,0
+computer science,database systems,71,4,1
+physics,thermodynamics,51,45,0
+mathematics,calculus,103,100,1
+mathematics,statistics,26,2,1
+data science,deep learning,109,43,1
+mathematics,linear algebra,141,55,1
+physics,quantum physics,28,61,0
+data science,big data analytics,83,78,0
+computer science,operating systems,142,28,0
+physics,thermodynamics,132,51,0
+mathematics,statistics,112,6,1
+physics,optics,138,82,0
+computer science,operating systems,136,90,1
+computer science,data structures,91,50,1
+physics,mechanics,133,76,1
+computer science,data structures,131,63,0
+data science,data visualization,13,21,1
+physics,optics,117,39,1
+mathematics,discrete mathematics,117,20,1
+physics,mechanics,59,3,0
+data science,data preprocessing,33,30,0
+computer science,data structures,23,60,1
+computer science,algorithms,176,91,0
+physics,thermodynamics,110,53,1
+physics,optics,158,64,1
+physics,electromagnetism,170,91,1
+data science,data visualization,94,42,0
+data science,machine learning,161,71,1
+mathematics,geometry,37,78,1
+data science,data visualization,94,100,1
+data science,data preprocessing,137,93,1
+physics,mechanics,191,23,0
+data science,data visualization,65,46,1
+data science,big data analytics,85,65,1
+data science,machine learning,197,35,0
+mathematics,statistics,169,38,0
+data science,data preprocessing,72,47,1
+computer science,data structures,24,59,1
+mathematics,geometry,129,46,0
+physics,thermodynamics,70,9,0
+physics,thermodynamics,38,38,0
+physics,mechanics,8,53,0
+physics,optics,183,95,1
+mathematics,statistics,183,5,1
+mathematics,linear algebra,159,15,0
+physics,optics,133,80,1
+physics,optics,83,54,1
+data science,data visualization,72,8,0
+physics,quantum physics,190,74,1
+physics,thermodynamics,113,59,1
+computer science,data structures,154,51,0
+data science,machine learning,170,39,0
+data science,machine learning,190,99,0
+mathematics,calculus,44,74,1
+data science,deep learning,109,27,0
+physics,electromagnetism,175,41,0
+mathematics,linear algebra,138,83,0
+data science,big data analytics,70,78,1
+computer science,data structures,184,49,0
+computer science,database systems,61,20,1
+data science,big data analytics,34,61,0
+data science,data preprocessing,22,95,1
+physics,electromagnetism,100,56,1
+computer science,computer networks,47,9,0
+computer science,database systems,20,20,0
+data science,data visualization,125,60,0
+physics,electromagnetism,196,99,1
+computer science,database systems,81,74,1
+computer science,computer networks,70,77,0
+data science,data visualization,180,30,1
+data science,machine learning,137,64,1
+computer science,database systems,22,43,0
+physics,thermodynamics,2,37,0
+physics,quantum physics,48,42,0
+physics,optics,193,91,0
+computer science,database systems,157,38,0
+computer science,data structures,168,69,0
+data science,big data analytics,49,49,0
+computer science,data structures,112,11,1
+mathematics,statistics,18,90,0
+computer science,operating systems,142,57,1
+computer science,computer networks,185,10,1
+data science,data visualization,191,67,0
+physics,thermodynamics,190,48,0
+mathematics,calculus,60,17,1
+physics,quantum physics,47,8,1
+computer science,database systems,116,28,1
+mathematics,calculus,162,46,0
+physics,electromagnetism,74,25,1
+physics,quantum physics,152,54,1
+physics,thermodynamics,175,93,0
+physics,thermodynamics,18,17,1
+mathematics,statistics,16,77,0
+data science,data preprocessing,117,98,1
+data science,data visualization,78,96,0
+physics,mechanics,82,42,0
+mathematics,discrete mathematics,67,59,1
+mathematics,linear algebra,136,24,0
+data science,data preprocessing,75,23,1
+physics,thermodynamics,125,79,0
+physics,optics,40,79,1
+data science,deep learning,151,40,1
+data science,big data analytics,145,39,0
+mathematics,calculus,150,3,0
+physics,optics,53,26,1
+mathematics,linear algebra,165,74,1
+mathematics,geometry,53,80,1
+data science,data preprocessing,32,20,0
+computer science,data structures,100,47,1
+data science,deep learning,115,57,1
+mathematics,calculus,167,38,0
+computer science,algorithms,158,32,0
+computer science,database systems,122,48,1
+physics,electromagnetism,19,52,0
+mathematics,linear algebra,111,51,0
+physics,optics,91,5,1
+computer science,computer networks,25,46,1
+physics,optics,61,13,1
+physics,mechanics,91,56,1
+mathematics,linear algebra,106,33,1
+physics,electromagnetism,193,22,1
+computer science,data structures,48,30,1
+computer science,operating systems,176,77,1
+mathematics,statistics,20,88,1
+computer science,database systems,102,62,1
+mathematics,calculus,70,99,1
+data science,data preprocessing,141,25,0
+mathematics,linear algebra,61,4,0
+computer science,database systems,191,17,0
+physics,optics,99,64,1
+computer science,operating systems,148,36,1
+physics,electromagnetism,3,42,0
+physics,thermodynamics,135,37,0
+physics,mechanics,6,8,0
+physics,quantum physics,197,68,0
+computer science,operating systems,167,41,0
+physics,optics,125,12,0
+physics,electromagnetism,69,10,0
+physics,optics,143,24,0
+computer science,algorithms,106,3,1
+mathematics,linear algebra,84,85,1
+data science,data visualization,192,37,1
+data science,machine learning,32,16,1
+data science,machine learning,63,87,0
+physics,optics,153,69,1
+computer science,database systems,164,11,1
+mathematics,geometry,53,60,0
+data science,big data analytics,116,71,0
+computer science,algorithms,120,89,1
+physics,electromagnetism,118,49,1
+mathematics,statistics,44,57,0
+physics,optics,144,16,0
+mathematics,linear algebra,14,54,0
+data science,data visualization,145,42,0
+computer science,operating systems,167,8,1
+physics,quantum physics,40,17,1
+mathematics,discrete mathematics,49,12,1
+data science,big data analytics,91,40,1
+mathematics,discrete mathematics,102,96,1
+mathematics,linear algebra,68,40,0
+mathematics,geometry,151,44,1
+mathematics,discrete mathematics,43,42,1
+data science,big data analytics,173,30,1
+data science,data preprocessing,193,76,0
+physics,optics,145,89,1
+computer science,database systems,70,14,0
+computer science,data structures,46,2,1
+computer science,algorithms,130,5,1
+data science,deep learning,117,52,0
+computer science,computer networks,51,2,1
+physics,mechanics,39,83,1
+mathematics,geometry,109,35,0
+physics,thermodynamics,46,28,1
+physics,mechanics,24,52,0
+physics,thermodynamics,117,56,0
+mathematics,calculus,103,20,0
+mathematics,calculus,82,95,0
+data science,data preprocessing,139,62,0
+mathematics,calculus,41,69,1
+physics,optics,1,47,1
+computer science,data structures,129,24,0
+data science,data visualization,57,48,1
+computer science,algorithms,192,38,0
+mathematics,statistics,137,94,0
+mathematics,geometry,122,50,1
+physics,quantum physics,138,83,1
+physics,mechanics,146,52,0
+data science,data preprocessing,66,70,0
+computer science,algorithms,182,77,1
+mathematics,geometry,34,34,0
+mathematics,discrete mathematics,168,10,1
+mathematics,calculus,92,23,0
+physics,quantum physics,179,97,1
+physics,quantum physics,58,36,0
+computer science,computer networks,63,22,0
+computer science,data structures,10,21,0
+mathematics,statistics,16,71,1
+mathematics,discrete mathematics,138,93,1
+mathematics,linear algebra,78,35,0
+mathematics,linear algebra,113,90,1
+data science,big data analytics,4,85,1
+data science,data visualization,134,24,0
+computer science,data structures,37,4,0
+computer science,operating systems,137,46,1
+computer science,data structures,84,45,0
+mathematics,geometry,37,27,0
+physics,optics,72,46,0
+physics,optics,43,76,1
+computer science,operating systems,28,14,1
+mathematics,calculus,57,15,1
+physics,mechanics,44,1,0
+mathematics,discrete mathematics,129,96,0
+data science,deep learning,130,50,1
+data science,big data analytics,158,36,1
+data science,machine learning,163,43,0
+mathematics,statistics,150,73,1
+mathematics,statistics,110,71,0
+physics,electromagnetism,79,14,1
+mathematics,geometry,164,77,0
+data science,big data analytics,193,50,1
+physics,quantum physics,157,96,1
+mathematics,calculus,80,78,0
+computer science,algorithms,44,17,1
+data science,machine learning,92,53,0
+computer science,data structures,102,37,0
+data science,data visualization,141,82,1
+computer science,data structures,25,57,1
+computer science,operating systems,187,10,0
+mathematics,discrete mathematics,89,76,0
+data science,data visualization,101,73,0
+mathematics,calculus,155,21,0
+mathematics,discrete mathematics,78,76,1
+data science,big data analytics,7,90,0
+computer science,data structures,52,57,0
+mathematics,linear algebra,40,21,1
+data science,data visualization,37,11,1
+computer science,operating systems,41,32,0
+data science,machine learning,15,5,1
+data science,data preprocessing,1,73,0
+mathematics,geometry,72,78,0
+mathematics,discrete mathematics,143,65,0
+mathematics,geometry,114,37,0
+mathematics,geometry,157,39,0
+data science,data preprocessing,8,7,1
+computer science,database systems,180,61,1
+computer science,database systems,182,66,1
+mathematics,statistics,40,7,0
+data science,big data analytics,36,98,0
+physics,quantum physics,177,71,1
+mathematics,geometry,11,52,1
+computer science,operating systems,36,17,0
+data science,big data analytics,167,62,1
+computer science,computer networks,98,42,0
+mathematics,calculus,39,98,0
+computer science,operating systems,32,17,1
+data science,deep learning,35,78,0
+physics,electromagnetism,139,37,0
+data science,deep learning,128,28,0
+computer science,computer networks,1,30,0
+data science,data preprocessing,49,12,0
+physics,quantum physics,19,35,0
+computer science,computer networks,121,98,0
+data science,data preprocessing,150,86,1
+computer science,computer networks,55,63,0
+mathematics,statistics,84,17,1
+physics,mechanics,28,46,1
+data science,deep learning,61,10,0
+computer science,database systems,113,100,1
+computer science,database systems,162,42,1
+data science,data visualization,55,24,1
+mathematics,geometry,98,94,0
+computer science,database systems,191,16,0
+data science,data preprocessing,169,88,0
+physics,electromagnetism,10,48,1
+mathematics,linear algebra,180,66,0
+computer science,operating systems,106,70,0
+mathematics,geometry,194,64,1
+physics,thermodynamics,111,63,0
+data science,big data analytics,92,7,1
+computer science,data structures,41,43,0
+computer science,operating systems,139,68,1
+physics,thermodynamics,23,60,0
+mathematics,linear algebra,3,86,1
+computer science,operating systems,61,14,0
+physics,thermodynamics,15,44,1
+physics,electromagnetism,127,68,1
+data science,machine learning,184,18,0
+physics,optics,77,67,0
+physics,mechanics,30,13,1
+data science,machine learning,126,19,1
+computer science,computer networks,55,77,1
+data science,data visualization,160,42,1
+mathematics,linear algebra,35,57,1
+mathematics,statistics,25,39,1
+data science,data preprocessing,29,58,1
+computer science,algorithms,134,19,0
+mathematics,geometry,15,43,1
+data science,deep learning,184,91,0
+computer science,data structures,157,93,1
+mathematics,linear algebra,25,18,1
+mathematics,statistics,170,80,1
+mathematics,linear algebra,173,60,0
+physics,electromagnetism,126,40,1
+computer science,operating systems,1,27,0
+data science,big data analytics,27,94,1
+data science,deep learning,22,100,0
+computer science,data structures,33,61,0
+physics,thermodynamics,134,77,0
+data science,deep learning,177,62,0
+mathematics,statistics,30,78,1
+physics,optics,49,29,0
+physics,optics,26,90,0
+data science,data visualization,46,52,0
+mathematics,calculus,22,43,0
+physics,mechanics,30,22,1
+physics,optics,123,54,0
+physics,optics,169,25,1
+computer science,data structures,84,50,0
+data science,data visualization,36,39,0
+mathematics,linear algebra,17,94,0
+physics,electromagnetism,68,59,0
+computer science,computer networks,179,31,1
+computer science,data structures,124,64,0
+mathematics,statistics,80,55,1
+physics,optics,80,62,1
+mathematics,statistics,1,72,1
+mathematics,statistics,82,6,0
+data science,data preprocessing,30,56,0
+physics,thermodynamics,113,77,1
+data science,data visualization,158,40,1
+computer science,data structures,99,50,1
+data science,big data analytics,30,47,1
+data science,machine learning,147,60,1
+computer science,data structures,49,84,0
+data science,deep learning,117,3,0
+computer science,data structures,190,74,1
+mathematics,linear algebra,176,58,1
+physics,mechanics,85,94,0
+physics,optics,10,61,1
+data science,machine learning,34,92,0
+physics,thermodynamics,118,99,0
+computer science,data structures,153,67,1
+physics,mechanics,175,98,1
+mathematics,geometry,33,25,0
+computer science,computer networks,29,66,1
+mathematics,calculus,174,21,0
+data science,data visualization,73,56,1
+computer science,computer networks,149,7,1
+physics,optics,165,59,0
+computer science,algorithms,105,82,0
+mathematics,calculus,127,57,0
+data science,data visualization,143,79,0
+physics,thermodynamics,146,2,0
+physics,quantum physics,74,53,0
+physics,quantum physics,77,50,1
+mathematics,discrete mathematics,84,75,0
+physics,optics,145,2,1
+mathematics,linear algebra,25,70,0
+physics,thermodynamics,37,33,0
+data science,machine learning,78,46,1
+mathematics,calculus,38,16,1
+physics,optics,184,63,1
+computer science,computer networks,19,34,0
+physics,mechanics,92,95,0
+data science,machine learning,29,80,0
+data science,deep learning,132,63,1
+physics,optics,130,76,0
+data science,data preprocessing,137,40,1
+physics,optics,132,91,1
+computer science,database systems,96,12,0
+mathematics,statistics,77,64,1
+physics,mechanics,82,75,1
+mathematics,discrete mathematics,3,99,1
+computer science,database systems,1,5,0
+mathematics,geometry,196,72,0
+mathematics,statistics,134,15,1
+computer science,operating systems,165,6,1
+data science,deep learning,112,31,1
+data science,data preprocessing,101,43,0
+computer science,operating systems,137,93,1
+mathematics,discrete mathematics,137,19,0
+computer science,operating systems,67,59,1
+mathematics,linear algebra,120,6,1
+computer science,data structures,142,72,0
+computer science,algorithms,70,71,1
+data science,machine learning,1,96,0
+physics,quantum physics,146,50,0
+physics,electromagnetism,30,3,1
+mathematics,discrete mathematics,119,38,1
+mathematics,linear algebra,97,2,1
+mathematics,statistics,12,65,1
+physics,thermodynamics,62,59,1
+mathematics,discrete mathematics,161,70,1
+data science,big data analytics,183,78,1
+physics,mechanics,77,31,1
+physics,electromagnetism,127,52,0
+mathematics,geometry,86,32,0
+physics,optics,92,93,1
+data science,deep learning,185,89,1
+computer science,data structures,166,6,1
+mathematics,statistics,49,32,1
+data science,data visualization,49,31,1
+data science,data visualization,125,62,0
+mathematics,linear algebra,139,3,0
+computer science,database systems,52,43,0
+physics,electromagnetism,74,42,1
+data science,data visualization,87,44,0
+physics,optics,165,67,1
+computer science,database systems,151,37,1
+physics,electromagnetism,74,71,0
+computer science,algorithms,188,23,0
+computer science,algorithms,158,23,1
+physics,quantum physics,15,12,1
+computer science,database systems,48,67,1
+computer science,algorithms,63,58,0
+physics,thermodynamics,142,16,1
+computer science,algorithms,83,43,1
+data science,machine learning,190,36,1
+mathematics,geometry,22,41,0
+mathematics,geometry,114,68,0
+physics,optics,135,61,0
+physics,electromagnetism,32,54,1
+mathematics,statistics,185,64,0
+data science,machine learning,191,73,1
+physics,mechanics,130,8,1
+mathematics,discrete mathematics,8,61,0
+mathematics,linear algebra,11,43,0
+physics,mechanics,80,49,1
+physics,optics,59,32,0
+computer science,data structures,72,21,0
+computer science,algorithms,24,52,0
+mathematics,linear algebra,118,18,1
+mathematics,discrete mathematics,145,49,1
+computer science,data structures,74,1,0
+computer science,data structures,131,31,1
+computer science,operating systems,139,7,1
+mathematics,calculus,84,83,1
+physics,quantum physics,58,47,1
+data science,deep learning,153,27,1
+computer science,database systems,56,94,0
+physics,thermodynamics,48,77,0
+mathematics,calculus,142,88,1
+computer science,algorithms,77,49,1
+physics,optics,43,77,1
+computer science,data structures,185,37,0
+physics,mechanics,106,38,1
+mathematics,discrete mathematics,14,79,1
+data science,data visualization,90,56,1
+physics,thermodynamics,193,96,1
+computer science,operating systems,90,16,0
+computer science,operating systems,11,67,0
+data science,data visualization,36,24,0
+mathematics,geometry,28,59,0
+computer science,operating systems,53,84,1
+data science,big data analytics,155,25,0
+computer science,operating systems,125,30,0
+data science,data visualization,3,73,1
+mathematics,calculus,177,21,1
+computer science,computer networks,33,67,1
+data science,data visualization,34,76,0
+computer science,computer networks,91,29,1
+computer science,computer networks,30,42,1
+computer science,database systems,151,34,1
+computer science,data structures,102,55,1
+computer science,data structures,175,9,1
+computer science,computer networks,54,3,1
+data science,big data analytics,174,2,1
+mathematics,statistics,158,65,0
+computer science,operating systems,165,33,1
+data science,data visualization,104,48,1
+data science,big data analytics,153,93,0
+mathematics,calculus,95,76,0
+mathematics,geometry,7,92,0
+computer science,algorithms,195,89,1
+mathematics,calculus,92,96,1
+data science,machine learning,109,64,1
+mathematics,discrete mathematics,13,69,1
+mathematics,linear algebra,145,63,0
+mathematics,discrete mathematics,2,73,1
+mathematics,geometry,193,72,1
+data science,big data analytics,156,43,0
+computer science,computer networks,172,85,0
+computer science,operating systems,131,90,1
+data science,big data analytics,179,87,0
+mathematics,calculus,155,14,1
+data science,data visualization,107,37,1
+data science,data preprocessing,160,79,0
+data science,data visualization,172,16,0
+computer science,database systems,150,98,0
+physics,quantum physics,32,83,1
+data science,machine learning,97,98,1
+mathematics,discrete mathematics,9,10,0
+data science,machine learning,171,10,1
+data science,deep learning,3,72,0
+mathematics,linear algebra,80,6,1
+data science,big data analytics,54,98,0
+computer science,database systems,164,26,0
+mathematics,statistics,113,70,1
+data science,data preprocessing,154,100,0
+computer science,algorithms,170,88,1
+mathematics,linear algebra,5,60,1
+mathematics,geometry,131,16,0
+mathematics,discrete mathematics,192,59,1
+physics,electromagnetism,66,35,1
+computer science,computer networks,174,68,0
+mathematics,linear algebra,157,90,0
+mathematics,geometry,109,69,1
+computer science,algorithms,188,7,1
+computer science,database systems,43,75,1
+mathematics,discrete mathematics,56,81,0
+computer science,algorithms,22,11,1
+data science,data visualization,39,87,0
+data science,data preprocessing,88,15,0
+computer science,database systems,200,49,0
+physics,electromagnetism,29,10,0
+mathematics,statistics,160,59,1
+data science,deep learning,171,79,1
+computer science,data structures,195,21,1
+physics,electromagnetism,38,63,0
+mathematics,statistics,150,72,1
+computer science,computer networks,154,75,1
+mathematics,calculus,139,26,0
+computer science,computer networks,35,46,0
+data science,deep learning,107,32,0
+computer science,database systems,121,11,1
+data science,data preprocessing,89,82,0
+physics,mechanics,132,34,0
+data science,big data analytics,103,67,0
+data science,deep learning,32,47,1
+mathematics,geometry,143,36,0
+data science,big data analytics,51,97,0
+data science,deep learning,176,87,0
+data science,data preprocessing,107,8,0
+data science,data preprocessing,199,21,1
+physics,optics,126,28,0
+physics,thermodynamics,27,12,1
+computer science,computer networks,195,30,1
+data science,big data analytics,164,28,0
+physics,optics,157,84,1
+mathematics,geometry,95,95,1
+data science,machine learning,152,23,0
+computer science,algorithms,157,100,0
+data science,deep learning,118,5,0
+physics,thermodynamics,40,61,1
+computer science,data structures,95,91,0
+data science,deep learning,182,9,1
+physics,electromagnetism,187,5,1
+physics,mechanics,6,96,1
+physics,thermodynamics,34,62,1
+computer science,algorithms,30,1,1
+data science,data preprocessing,2,53,0
+data science,big data analytics,59,42,1
+computer science,computer networks,196,91,1
+data science,data visualization,164,1,1
+computer science,algorithms,28,66,1
+mathematics,calculus,168,64,0
+data science,data preprocessing,28,39,0
+computer science,database systems,114,41,0
+physics,quantum physics,46,43,0
+mathematics,discrete mathematics,121,98,1
+computer science,algorithms,138,36,1
+computer science,operating systems,144,12,1
+computer science,computer networks,51,95,1
+physics,electromagnetism,72,28,1
+mathematics,calculus,110,15,1
+data science,deep learning,185,32,0
+computer science,algorithms,105,41,0
+computer science,database systems,7,6,1
+mathematics,linear algebra,111,33,1
+physics,electromagnetism,141,30,0
+data science,data preprocessing,16,92,1
+computer science,algorithms,61,52,1
+computer science,database systems,79,67,0
+data science,machine learning,180,86,1
+computer science,algorithms,86,68,0
+physics,optics,132,24,0
+physics,quantum physics,105,58,0
+physics,thermodynamics,153,35,0
+data science,data visualization,5,19,0
+computer science,algorithms,75,42,0
+mathematics,geometry,17,68,0
+computer science,database systems,176,36,1
+mathematics,discrete mathematics,157,24,0
+physics,optics,62,4,0
+mathematics,linear algebra,185,43,0
+mathematics,statistics,148,97,1
+mathematics,discrete mathematics,26,80,0
+computer science,operating systems,188,56,0
+physics,mechanics,19,10,0
+mathematics,geometry,87,11,1
+data science,data preprocessing,183,62,1
+physics,quantum physics,134,55,1
+data science,deep learning,192,100,0
+data science,deep learning,148,73,0
+physics,thermodynamics,109,12,1
+physics,electromagnetism,12,67,1
+mathematics,linear algebra,93,6,1
+data science,machine learning,80,51,0
+physics,thermodynamics,35,53,0
+physics,thermodynamics,156,23,0
+data science,machine learning,46,1,1
+mathematics,discrete mathematics,197,87,1
+physics,quantum physics,137,73,0
+physics,mechanics,60,39,0
+mathematics,geometry,137,91,1
+physics,mechanics,60,11,1
+data science,machine learning,102,92,1
+physics,optics,173,17,1
+physics,quantum physics,150,91,1
+physics,electromagnetism,21,58,1
+computer science,computer networks,54,56,0
+data science,data preprocessing,143,68,1
+physics,thermodynamics,121,27,1
+physics,optics,108,16,1
+data science,machine learning,181,36,1
+computer science,database systems,13,20,1
+physics,optics,176,35,0
+data science,big data analytics,20,60,1
+computer science,database systems,37,5,0
+physics,mechanics,23,10,0
+physics,optics,5,97,1
+mathematics,discrete mathematics,115,7,0
+physics,electromagnetism,199,94,1
+physics,electromagnetism,164,49,0
+physics,electromagnetism,126,66,0
+mathematics,discrete mathematics,175,88,1
+computer science,data structures,90,77,0
+mathematics,linear algebra,171,1,0
+physics,optics,117,78,0
+data science,data visualization,190,67,0
+physics,electromagnetism,87,58,0
+computer science,data structures,82,73,0
+computer science,data structures,182,60,1
+mathematics,discrete mathematics,174,14,1
+physics,electromagnetism,62,25,0
+computer science,computer networks,35,17,1
+computer science,computer networks,123,31,0
+data science,machine learning,88,72,0
+physics,thermodynamics,119,7,0
+physics,quantum physics,135,37,1
+physics,quantum physics,37,44,0
+physics,electromagnetism,115,50,1
+physics,quantum physics,155,89,1
+data science,big data analytics,148,89,1
+computer science,algorithms,68,88,1
+mathematics,discrete mathematics,130,75,1
+data science,machine learning,120,70,0
+data science,deep learning,116,28,0
+data science,data preprocessing,165,49,1
+mathematics,discrete mathematics,30,76,1
+physics,mechanics,30,31,0
+computer science,algorithms,80,82,1
+data science,data visualization,73,22,0
+data science,deep learning,100,9,1
+mathematics,discrete mathematics,190,100,0
+physics,mechanics,137,89,0
+computer science,computer networks,200,34,0
+mathematics,statistics,109,15,1
+physics,quantum physics,180,42,0
+computer science,operating systems,18,48,1
+physics,mechanics,140,19,1
+physics,mechanics,169,73,0
+physics,electromagnetism,100,42,1
+physics,electromagnetism,143,63,0
+data science,deep learning,137,85,1
+computer science,operating systems,30,26,1
+computer science,operating systems,89,78,0
+physics,electromagnetism,20,76,0
+data science,data visualization,28,30,0
+computer science,database systems,118,2,0
+physics,electromagnetism,94,61,1
+computer science,algorithms,65,67,0
+mathematics,linear algebra,127,34,0
+data science,big data analytics,115,46,1
+computer science,data structures,122,69,1
+physics,optics,98,62,1
+mathematics,linear algebra,124,40,0
+physics,quantum physics,113,73,1
+computer science,computer networks,186,48,0
+data science,big data analytics,18,59,0
+physics,thermodynamics,76,39,0
+data science,data preprocessing,191,37,1
+computer science,operating systems,200,86,1
+data science,deep learning,146,85,1
+mathematics,calculus,4,53,0
+physics,mechanics,18,24,0
+data science,machine learning,85,49,1
+physics,mechanics,124,12,0
+mathematics,statistics,65,98,1
+mathematics,geometry,84,44,1
+computer science,data structures,9,22,0
+computer science,operating systems,101,34,1
+data science,big data analytics,117,39,1
+mathematics,calculus,170,48,0
+mathematics,discrete mathematics,31,61,1
+mathematics,calculus,197,14,1
+mathematics,statistics,99,4,0
+mathematics,linear algebra,190,84,0
+data science,machine learning,58,44,0
+data science,big data analytics,134,62,0
+physics,electromagnetism,33,84,1
+mathematics,geometry,41,83,1
+mathematics,geometry,58,84,1
+mathematics,discrete mathematics,79,94,0
+physics,electromagnetism,153,30,1
+data science,data preprocessing,141,15,1
+physics,optics,48,23,0
+computer science,operating systems,151,37,1
+data science,data preprocessing,8,14,1
+data science,big data analytics,132,23,1
+physics,mechanics,40,84,1
+computer science,operating systems,28,95,1
+data science,data preprocessing,141,32,0
+data science,data preprocessing,187,99,0
+mathematics,linear algebra,196,90,0
+mathematics,statistics,147,98,0
+computer science,computer networks,138,71,1
+data science,big data analytics,35,1,0
+computer science,database systems,94,82,0
+physics,thermodynamics,188,5,0
+computer science,computer networks,132,98,0
+physics,electromagnetism,27,37,0
+computer science,operating systems,31,12,1
+physics,mechanics,59,14,0
+computer science,computer networks,99,5,1
+physics,electromagnetism,28,6,0
+physics,optics,19,11,0
+physics,mechanics,116,86,1
+mathematics,statistics,19,43,1
+physics,mechanics,120,25,1
+physics,mechanics,74,83,1
+data science,deep learning,77,55,1
+physics,optics,118,46,0
+computer science,database systems,169,4,0
+data science,data visualization,78,76,1
+computer science,database systems,65,15,0
+data science,deep learning,190,13,0
+physics,thermodynamics,128,62,1
+data science,big data analytics,60,73,0
+physics,quantum physics,173,91,1
+data science,data preprocessing,16,31,0
+physics,electromagnetism,125,95,0
+physics,optics,193,46,1
+mathematics,statistics,113,59,0
+computer science,algorithms,6,80,0
+mathematics,calculus,144,77,1
+data science,deep learning,4,4,1
+computer science,database systems,169,21,1
+physics,quantum physics,18,86,0
+data science,data visualization,93,33,1
+physics,mechanics,108,85,1
+computer science,database systems,75,84,0
+physics,optics,87,98,0
+mathematics,discrete mathematics,96,3,1
+physics,electromagnetism,78,19,1
+mathematics,linear algebra,74,69,1
+mathematics,linear algebra,61,77,0
+data science,machine learning,99,78,1
+mathematics,linear algebra,132,32,0
+physics,optics,10,73,1
+mathematics,calculus,130,31,0
+physics,mechanics,78,93,1
+physics,quantum physics,60,9,0
+computer science,database systems,183,30,1
+data science,machine learning,37,24,0
+data science,data preprocessing,80,49,0
+mathematics,geometry,72,18,0
+mathematics,geometry,99,81,0
+data science,deep learning,9,93,1
+physics,electromagnetism,110,63,0
+mathematics,discrete mathematics,31,56,1
+physics,thermodynamics,130,61,0
+physics,mechanics,22,41,1
+data science,deep learning,62,59,1
+computer science,computer networks,64,39,0
+mathematics,geometry,81,83,0
+mathematics,linear algebra,194,86,0
+physics,thermodynamics,6,32,0
+physics,quantum physics,136,38,1
+data science,big data analytics,19,82,0
+physics,quantum physics,148,57,0
+physics,mechanics,4,95,1
+data science,machine learning,18,92,0
+mathematics,geometry,105,61,0
+physics,mechanics,76,47,0
+physics,thermodynamics,129,12,0
+physics,optics,176,87,1
+data science,big data analytics,156,86,0
+physics,optics,33,19,0
+computer science,operating systems,127,39,1
+physics,electromagnetism,90,62,0
+data science,big data analytics,165,35,0
+data science,big data analytics,29,89,0
+data science,data preprocessing,90,52,0
+physics,quantum physics,181,57,1
+computer science,algorithms,157,41,1
+physics,electromagnetism,11,54,1
+data science,machine learning,8,32,0
+data science,deep learning,33,27,0
+mathematics,linear algebra,86,84,0
+mathematics,geometry,13,45,0
+physics,optics,188,9,1
+data science,big data analytics,48,96,1
+computer science,computer networks,96,68,0
+physics,electromagnetism,142,26,0
+computer science,database systems,56,17,1
+physics,thermodynamics,6,71,0
+mathematics,geometry,127,49,1
+physics,optics,52,81,1
+computer science,computer networks,190,56,1
+data science,data preprocessing,18,76,0
+physics,mechanics,70,62,1
+data science,data visualization,33,16,0
+computer science,computer networks,29,12,0
+data science,machine learning,124,18,0
+computer science,data structures,128,15,0
+physics,optics,179,56,0
+mathematics,geometry,102,21,0
+computer science,database systems,137,61,0
+mathematics,calculus,29,49,1
+mathematics,statistics,177,62,1
+computer science,operating systems,168,67,0
+data science,data preprocessing,186,27,0
+computer science,database systems,72,85,0
+computer science,data structures,142,85,0
+mathematics,discrete mathematics,110,1,0
+mathematics,statistics,167,61,0
+physics,thermodynamics,169,36,1
+mathematics,discrete mathematics,42,73,0
+mathematics,discrete mathematics,48,88,0
+physics,optics,11,72,0
+physics,mechanics,25,49,0
+physics,electromagnetism,76,90,0
+mathematics,geometry,20,73,0
+computer science,computer networks,143,5,0
+mathematics,geometry,139,38,0
+computer science,algorithms,189,77,1
+computer science,operating systems,10,60,1
+physics,mechanics,92,81,1
+data science,big data analytics,172,1,1
+data science,data visualization,180,64,1
+computer science,database systems,30,61,1
+data science,data visualization,61,100,1
+data science,data preprocessing,50,95,1
+computer science,operating systems,153,1,0
+physics,optics,158,96,0
+data science,deep learning,75,55,0
+data science,deep learning,170,21,1
+physics,mechanics,113,27,1
+computer science,data structures,52,1,1
+mathematics,discrete mathematics,178,17,1
+mathematics,calculus,136,18,1
+mathematics,calculus,72,35,0
+data science,data visualization,57,8,0
+physics,optics,161,22,0
+computer science,algorithms,111,26,1
+data science,machine learning,191,38,0
+data science,big data analytics,146,82,1
+data science,big data analytics,94,90,0
+physics,optics,48,75,1
+mathematics,discrete mathematics,61,39,0
+physics,electromagnetism,110,98,0
+mathematics,geometry,161,45,1
+computer science,data structures,150,2,1
+mathematics,discrete mathematics,32,32,1
+physics,optics,164,87,1
+mathematics,statistics,51,42,0
+physics,optics,4,5,0
+computer science,algorithms,52,77,1
+physics,quantum physics,16,97,1
+mathematics,statistics,151,73,0
+computer science,algorithms,122,18,1
+computer science,computer networks,19,2,0
+data science,deep learning,11,94,1
+data science,deep learning,58,97,1
+mathematics,discrete mathematics,178,4,0
+mathematics,geometry,168,2,0
+physics,mechanics,170,83,0
+mathematics,linear algebra,1,35,0
+computer science,operating systems,19,85,1
+data science,big data analytics,115,61,1
+data science,machine learning,174,98,0
+mathematics,linear algebra,162,87,1
+data science,data preprocessing,70,7,1
+data science,data visualization,99,37,1
