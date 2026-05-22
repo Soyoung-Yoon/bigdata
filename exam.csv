@@ -1,1001 +1,1001 @@
 ﻿user_id,name,email,phone,gender
-U0001,  John Hunt ,ygo@NAVER.COM,010 0965 7015,Female
-U0002,Jimmy Jones,seongho03@GMAIL.COM,010-0744-1318, FEMALE
+U0001,  John Hunt ,ygo@NAVER.COM,010 0965 7015,Female  
+U0002,Jimmy Jones,seongho03@GMAIL.COM,010-0744-1318,  FEMALE
 U0003,Kenneth Franklin ,junyeong57@yahoo.com,010-8512-7589, FEMALE
-U0004,   Eric  Ortiz ,jeongho44@GMAIL.COM,010-801-3576,Male 
-U0005,   Nancy    Glass ,jeongseoyeong@YAHOO.COM,010-550-1514, female 
+U0004,   Eric  Ortiz ,jeongho44@GMAIL.COM,010-801-3576,  Male  
+U0005,   Nancy    Glass ,jeongseoyeong@YAHOO.COM,010-550-1514,    female 
 U0006,Bridget  Mcdaniel ,agim@gmail.com,010 3908 0724,Male 
-U0007,  Mason  Valenzuela   DDS  ,ryuboram@gmail.com,010 9735 3759,M
+U0007,  Mason  Valenzuela   DDS  ,ryuboram@gmail.com,010 9735 3759,M  
 U0008,Ryan   Murray,seohyeoni@GMAIL.COM,010 3238 1490, FEMALE
-U0009,Ann Guerrero   ,hyeonjun14@naver.com,010 1454 0907,F
-U0010,Terri   Holland   MD,yejinhong@YAHOO.COM,010-0745-1719,MALE
-U0011,Mark Gomez,fgweon@YAHOO.COM,011-447-2897, FEMALE
+U0009,Ann Guerrero   ,hyeonjun14@naver.com,010 1454 0907, F
+U0010,Terri   Holland   MD,yejinhong@YAHOO.COM,010-0745-1719, MALE  
+U0011,Mark Gomez,fgweon@YAHOO.COM,011-447-2897,   FEMALE  
 U0012,Justin Smith,jeonghungim@YAHOO.COM,010-114-4467,F
 U0013,   Julia    Barrett,mijeongan@YAHOO.COM,010-0036-2557,Male 
-U0014, Bradley  Evans,yeongjini@gmail.com,010-1054-1074,Female
-U0015,Dawn Walker   ,bagseunghyeon@naver.com,011-938-6880,F
+U0014, Bradley  Evans,yeongjini@gmail.com,010-1054-1074,Female   
+U0015,Dawn Walker   ,bagseunghyeon@naver.com,011-938-6880,   F
 U0016,  Renee  Jenkins   ,hyejin81@gmail.com,010.0561.2448,M
-U0017,Susan  Hanna,eungyeong60@naver.com,010.0570.2638,Female
+U0017,Susan  Hanna,eungyeong60@naver.com,010.0570.2638,Female 
 U0018, Martha Ewing,bgim@gmail.com,010 2850 7535,Female
 U0019, Brandon    Lopez,seojunyun@daum.net,010-3235-5539,Female
-U0020,  Lindsey   Smith   ,pi@naver.com,011-112-8154,M
-U0021, Jerry    Simmons   ,igim@NAVER.COM,010-530-2747,F
-U0022,Carrie   Peters   ,jinugim@gmail.com,011-864-8893,MALE
-U0023, Ashley    Lowery,pryu@GMAIL.COM,010.6420.4860,M
-U0024,Ricardo Atkinson,jeongsigi@yahoo.com,010-846-5264, female 
-U0025,Melanie  Daniels,gimeunjeong@DAUM.NET,010.0074.3257,MALE
+U0020,  Lindsey   Smith   ,pi@naver.com,011-112-8154,  M
+U0021, Jerry    Simmons   ,igim@NAVER.COM,010-530-2747,  F   
+U0022,Carrie   Peters   ,jinugim@gmail.com,011-864-8893,   MALE
+U0023, Ashley    Lowery,pryu@GMAIL.COM,010.6420.4860,M   
+U0024,Ricardo Atkinson,jeongsigi@yahoo.com,010-846-5264,   female    
+U0025,Melanie  Daniels,gimeunjeong@DAUM.NET,010.0074.3257,MALE  
 U0026,Jimmy    Williams   ,ucoe@naver.com,010-8440-3234,male
-U0027,William    Poole,siu97@gmail.com,011-616-5092, FEMALE
-U0028,Jesse Stokes   ,dgim@kakao.com,011-305-7582,M
-U0029,Shawn   Anderson  ,gwangsu61@yahoo.com,010-6705-1907, FEMALE
-U0030, Christopher    Reynolds,yejungim@yahoo.com,010 0558 7014, FEMALE
-U0031,Nicholas   Perez,hyejini@daum.net,011-031-1692,Male 
-U0032,John Ortiz   ,gimhyeonu@daum.net,010.2155.5498, FEMALE
-U0033, Christine  Bonilla,vgim@daum.net,010-575-6083,Female
-U0034,Tina Reid ,jihyeseo@gmail.com,010.7286.8758,Male 
-U0035,Christopher   Anderson,hayunna@yahoo.com,010-5294-2675, FEMALE
-U0036, Tiffany   Hancock,yeongsun70@daum.net,010 3328 3047,Female
-U0037,  William Barrera,yeonggil42@NAVER.COM,010-926-8651, FEMALE
+U0027,William    Poole,siu97@gmail.com,011-616-5092,  FEMALE
+U0028,Jesse Stokes   ,dgim@kakao.com,011-305-7582, M   
+U0029,Shawn   Anderson  ,gwangsu61@yahoo.com,010-6705-1907, FEMALE   
+U0030, Christopher    Reynolds,yejungim@yahoo.com,010 0558 7014,    FEMALE  
+U0031,Nicholas   Perez,hyejini@daum.net,011-031-1692,   Male 
+U0032,John Ortiz   ,gimhyeonu@daum.net,010.2155.5498,    FEMALE   
+U0033, Christine  Bonilla,vgim@daum.net,010-575-6083, Female
+U0034,Tina Reid ,jihyeseo@gmail.com,010.7286.8758,  Male  
+U0035,Christopher   Anderson,hayunna@yahoo.com,010-5294-2675, FEMALE 
+U0036, Tiffany   Hancock,yeongsun70@daum.net,010 3328 3047,Female 
+U0037,  William Barrera,yeonggil42@NAVER.COM,010-926-8651,    FEMALE
 U0038,  Carol  Kane,eunjeong67@naver.com,010-0373-4010,male
-U0039,   Lisa  Mitchell ,ybag@gmail.com,010-425-1272,male
-U0040,Andrea  Daniels   ,myeongsug49@daum.net,010-938-9833, female 
-U0041,   William   Gilbert ,lju@gmail.com,010.9645.8682,M
-U0042, Wesley  Harris,jeongja66@kakao.com,010 0561 0707,MALE
-U0043,Savannah  Mills   ,miyeong23@yahoo.com,010.0931.8272,Female
+U0039,   Lisa  Mitchell ,ybag@gmail.com,010-425-1272,male   
+U0040,Andrea  Daniels   ,myeongsug49@daum.net,010-938-9833,    female 
+U0041,   William   Gilbert ,lju@gmail.com,010.9645.8682,M  
+U0042, Wesley  Harris,jeongja66@kakao.com,010 0561 0707,  MALE   
+U0043,Savannah  Mills   ,miyeong23@yahoo.com,010.0931.8272,Female   
 U0044, Krystal Rodriguez,vgo@naver.com,010-824-5551,Female
-U0045,Desiree Holloway  ,hwanggyeongsu@YAHOO.COM,010-6180-7104,Male 
-U0046,Maria  Kim,seonyeongeom@GMAIL.COM,010-6150-0183,F
+U0045,Desiree Holloway  ,hwanggyeongsu@YAHOO.COM,010-6180-7104,   Male    
+U0046,Maria  Kim,seonyeongeom@GMAIL.COM,010-6150-0183,F  
 U0047,  Rebecca    Garcia,bagseongsu@naver.com,010 1784 5985,MALE
 U0048,   Sara  Kennedy  ,misug56@gmail.com,010-031-0590,MALE
-U0049,   Valerie    Anderson   ,ci@gmail.com,011-249-1726,Female
+U0049,   Valerie    Anderson   ,ci@gmail.com,011-249-1726,  Female 
 U0050,   Phillip Moore ,seominsu@NAVER.COM,011-981-4942,F
-U0051,   Eric  Casey  ,eunseo64@kakao.com,010-1465-9086, FEMALE
-U0052, Ashley  Hubbard,minsu18@naver.com,010 4681 2592, FEMALE
-U0053,Eric Adams    PhD,byeongceol15@GMAIL.COM,010-809-8223,MALE
+U0051,   Eric  Casey  ,eunseo64@kakao.com,010-1465-9086, FEMALE 
+U0052, Ashley  Hubbard,minsu18@naver.com,010 4681 2592,    FEMALE
+U0053,Eric Adams    PhD,byeongceol15@GMAIL.COM,010-809-8223,  MALE
 U0054,Dr. Shelly James,myeongsugyun@gmail.com,010 6746 6047,MALE
-U0055,Mrs. Janet Wilson,ogim@gmail.com,010-2915-8756,MALE
-U0056,  Grant  Ford  ,jaehoo@YAHOO.COM,010-538-0048,Male 
-U0057,  Alexandria Bailey  PhD  ,gimyeongsug@naver.com,010.0367.1967,male
+U0055,Mrs. Janet Wilson,ogim@gmail.com,010-2915-8756,   MALE   
+U0056,  Grant  Ford  ,jaehoo@YAHOO.COM,010-538-0048,   Male 
+U0057,  Alexandria Bailey  PhD  ,gimyeongsug@naver.com,010.0367.1967, male
 U0058,   Keith   Hester,mu@kakao.com,010.2960.0485, female 
-U0059,  Robert    Faulkner ,minjaegim@NAVER.COM,010-2003-2334, female 
-U0060,Harry Mcintosh   ,seungmin47@daum.net,011-877-9432,M
-U0061,   Amber    Cuevas  DDS ,gimjeongung@kakao.com,010-528-7189,MALE
-U0062,Anthony Perez,jihyei@GMAIL.COM,010.3393.4850,Male 
-U0063,   Melanie  Bowman   ,jongsu69@yahoo.com,010-3989-4117,F
-U0064,Robert Frey   ,yeweon80@NAVER.COM,011-865-3717,male
-U0065,Vicki   Golden   ,junseobag@naver.com,010-1064-8903,male
-U0066,  Taylor   Gomez   ,hwangseongjin@naver.com,010.2927.0902, female 
+U0059,  Robert    Faulkner ,minjaegim@NAVER.COM,010-2003-2334, female    
+U0060,Harry Mcintosh   ,seungmin47@daum.net,011-877-9432,M   
+U0061,   Amber    Cuevas  DDS ,gimjeongung@kakao.com,010-528-7189, MALE  
+U0062,Anthony Perez,jihyei@GMAIL.COM,010.3393.4850,   Male  
+U0063,   Melanie  Bowman   ,jongsu69@yahoo.com,010-3989-4117,   F
+U0064,Robert Frey   ,yeweon80@NAVER.COM,011-865-3717, male
+U0065,Vicki   Golden   ,junseobag@naver.com,010-1064-8903, male  
+U0066,  Taylor   Gomez   ,hwangseongjin@naver.com,010.2927.0902,  female 
 U0067, Todd   Roy   ,yejin42@naver.com,010-579-0137,Female
-U0068, Rebecca Cummings,minseog53@yahoo.com,010-620-9667, FEMALE
-U0069,Jennifer  Williams,cjeong@kakao.com,010-805-5756,F
-U0070, Laura  Johnson   ,oareum@DAUM.NET,010 8400 7981,Female
-U0071,Kyle   Hoffman,ujinbag@daum.net,010 8628 0493,MALE
-U0072,Amber Martinez,seoyeon93@daum.net,010-4807-2321,Male 
-U0073,Jill Robbins ,jangsunja@kakao.com,010-534-9915, FEMALE
-U0074,Mary Carrillo  ,gimareum@naver.com,010-652-5659,M
-U0075,Caroline  Taylor   ,hongseongho@gmail.com,010-9827-9123,Female
-U0076,Megan   Alvarado ,ogjabag@DAUM.NET,011-163-8824,M
+U0068, Rebecca Cummings,minseog53@yahoo.com,010-620-9667,   FEMALE
+U0069,Jennifer  Williams,cjeong@kakao.com,010-805-5756, F
+U0070, Laura  Johnson   ,oareum@DAUM.NET,010 8400 7981,  Female   
+U0071,Kyle   Hoffman,ujinbag@daum.net,010 8628 0493,   MALE
+U0072,Amber Martinez,seoyeon93@daum.net,010-4807-2321,  Male 
+U0073,Jill Robbins ,jangsunja@kakao.com,010-534-9915, FEMALE 
+U0074,Mary Carrillo  ,gimareum@naver.com,010-652-5659,  M 
+U0075,Caroline  Taylor   ,hongseongho@gmail.com,010-9827-9123, Female
+U0076,Megan   Alvarado ,ogjabag@DAUM.NET,011-163-8824,   M   
 U0077,Christina Gray,seonghogim@yahoo.com,010-686-2591,Male 
 U0078, Renee Johnson,jeonghyiyun@YAHOO.COM,010-5855-3770,male
-U0079,  Rachel   Aguilar,gimseungmin@DAUM.NET,010-2035-9615,male
-U0080,Nicholas    Burton   ,gimdoyun@DAUM.NET,010.3237.1832,F
-U0081,Danielle  Wilson,iminsu@gmail.com,010 9860 6825,MALE
-U0082, Dominique  Barrera ,yeongili@daum.net,010-9200-7643, FEMALE
+U0079,  Rachel   Aguilar,gimseungmin@DAUM.NET,010-2035-9615,male  
+U0080,Nicholas    Burton   ,gimdoyun@DAUM.NET,010.3237.1832,  F
+U0081,Danielle  Wilson,iminsu@gmail.com,010 9860 6825, MALE
+U0082, Dominique  Barrera ,yeongili@daum.net,010-9200-7643,   FEMALE   
 U0083, Robert   Doyle,gweonjunho@kakao.com,010-0757-2195,Male 
 U0084,Donald   Wilkerson,bagyeweon@daum.net,010 7487 8605,male
-U0085,Dustin    Freeman,jiu66@kakao.com,011-123-2713,Male 
+U0085,Dustin    Freeman,jiu66@kakao.com,011-123-2713,  Male  
 U0086,Christy  Simpson,abag@NAVER.COM,010.5614.5850,Male 
-U0087,Beth  Lowe   ,seonghyeon55@daum.net,010.6675.3364, female 
-U0088,Amber   Kim   ,haeun31@GMAIL.COM,010 3556 5367,Male 
-U0089,   Elizabeth  Ellis ,sjeong@DAUM.NET,010.9627.9658, FEMALE
-U0090,  Samuel    Phillips ,yeongceolseo@daum.net,011-490-7722,male
+U0087,Beth  Lowe   ,seonghyeon55@daum.net,010.6675.3364, female    
+U0088,Amber   Kim   ,haeun31@GMAIL.COM,010 3556 5367,   Male    
+U0089,   Elizabeth  Ellis ,sjeong@DAUM.NET,010.9627.9658,  FEMALE 
+U0090,  Samuel    Phillips ,yeongceolseo@daum.net,011-490-7722,male 
 U0091, Alexis  Mendoza  ,yangjihyeon@gmail.com,010.7215.0099, female 
-U0092,Paul Jones   ,agim@NAVER.COM,010 3399 5466, female 
-U0093,Kimberly    King,wbag@GMAIL.COM,010-7872-9972, female 
-U0094,Derek   Mcdonald  ,jiweonbag@naver.com,010.8011.0083,Female
-U0095,Glenda  Hale,gimjeongsug@kakao.com,010.0171.7160,Female
-U0096,  Felicia King  ,seonghyeon00@naver.com,011-264-7919,F
-U0097,Danny    Sullivan,yejun56@daum.net,010 6619 5143,F
-U0098,Lauren    Ramirez ,gimsunja@yahoo.com,010-370-0069,F
-U0099,   Elizabeth    Rivera,miyeong79@NAVER.COM,010 7759 2935,male
+U0092,Paul Jones   ,agim@NAVER.COM,010 3399 5466, female  
+U0093,Kimberly    King,wbag@GMAIL.COM,010-7872-9972,    female 
+U0094,Derek   Mcdonald  ,jiweonbag@naver.com,010.8011.0083,  Female   
+U0095,Glenda  Hale,gimjeongsug@kakao.com,010.0171.7160,  Female   
+U0096,  Felicia King  ,seonghyeon00@naver.com,011-264-7919,F 
+U0097,Danny    Sullivan,yejun56@daum.net,010 6619 5143,   F
+U0098,Lauren    Ramirez ,gimsunja@yahoo.com,010-370-0069,F 
+U0099,   Elizabeth    Rivera,miyeong79@NAVER.COM,010 7759 2935,male  
 U0100,   Justin  Bridges   DDS,gimsangho@yahoo.com,010 8784 4780,Male 
-U0101,Kyle   Anderson  ,ecoe@naver.com,010 4532 3414,F
+U0101,Kyle   Anderson  ,ecoe@naver.com,010 4532 3414, F   
 U0102,Jill   Petersen   ,ji@kakao.com,010-720-3801, FEMALE
 U0103,Catherine   Gomez   ,ijinho@kakao.com,010.9720.1498,M
-U0104,Dawn    Diaz,seoyeon34@naver.com,010-3251-3267,Female
-U0105, Amber   Villarreal ,eunyeong10@daum.net,010 6528 5332,F
-U0106,Joseph    Rodriguez,gweongyeongsu@naver.com,010 7685 9831,M
+U0104,Dawn    Diaz,seoyeon34@naver.com,010-3251-3267,   Female   
+U0105, Amber   Villarreal ,eunyeong10@daum.net,010 6528 5332, F 
+U0106,Joseph    Rodriguez,gweongyeongsu@naver.com,010 7685 9831,M  
 U0107,  Tracy   Marshall,xno@kakao.com,010 6211 0025,male
-U0108,Johnny    Smith,zan@gmail.com,011-424-4879,male
-U0109,Richard  Nelson   ,yejigim@yahoo.com,011-263-9645,Male 
-U0110, Sharon   Wilson,bagjeongja@DAUM.NET,011-785-2730,F
-U0111,Diamond  Anderson ,seongho08@kakao.com,010.2372.6678,MALE
-U0112,Victor  Adams,donghyeon64@gmail.com,010 4454 6126,F
-U0113,   Johnny Jones,jeongyejin@naver.com,010.7422.4502,M
-U0114, Albert    Miller   ,sanghyeongo@gmail.com,010.5154.8911,Male 
+U0108,Johnny    Smith,zan@gmail.com,011-424-4879,   male
+U0109,Richard  Nelson   ,yejigim@yahoo.com,011-263-9645,Male  
+U0110, Sharon   Wilson,bagjeongja@DAUM.NET,011-785-2730,  F
+U0111,Diamond  Anderson ,seongho08@kakao.com,010.2372.6678,  MALE
+U0112,Victor  Adams,donghyeon64@gmail.com,010 4454 6126,F   
+U0113,   Johnny Jones,jeongyejin@naver.com,010.7422.4502,   M 
+U0114, Albert    Miller   ,sanghyeongo@gmail.com,010.5154.8911,   Male 
 U0115,Bryan Fischer,yeongilan@NAVER.COM,011-349-4536, FEMALE
-U0116,Misty Buckley   ,ai@kakao.com,010-419-1888,Female
-U0117, Suzanne    Snyder,seonghobag@kakao.com,010.0929.6449,male
+U0116,Misty Buckley   ,ai@kakao.com,010-419-1888,Female 
+U0117, Suzanne    Snyder,seonghobag@kakao.com,010.0929.6449,  male
 U0118,  Jermaine Snyder,yeonghyi04@naver.com,010-2027-9974, female 
-U0119,Frederick   Miller,baehyeonsug@GMAIL.COM,010-387-3123,MALE
-U0120,Michelle    Holland,hongjaehyeon@naver.com,010-7245-2985,MALE
-U0121, Michael  Gonzalez    DDS,seojun58@gmail.com,010-528-4381,F
+U0119,Frederick   Miller,baehyeonsug@GMAIL.COM,010-387-3123,MALE 
+U0120,Michelle    Holland,hongjaehyeon@naver.com,010-7245-2985,MALE   
+U0121, Michael  Gonzalez    DDS,seojun58@gmail.com,010-528-4381,F   
 U0122,Sean   Baker,gangsumin@kakao.com,010-063-0871, female 
-U0123, James  Oconnell,cunjai@yahoo.com,010.9874.4416,MALE
+U0123, James  Oconnell,cunjai@yahoo.com,010.9874.4416, MALE
 U0124,  Cynthia  Bailey,ujang@KAKAO.COM,010.2384.6286,M
-U0125, Troy Barajas ,seoyeon59@yahoo.com,010.3209.9558,M
-U0126,  Matthew  Burns  ,bagsunog@KAKAO.COM,010 0927 1179,Female
+U0125, Troy Barajas ,seoyeon59@yahoo.com,010.3209.9558,   M
+U0126,  Matthew  Burns  ,bagsunog@KAKAO.COM,010 0927 1179,Female   
 U0127,  Tiffany    Martinez   ,ki@daum.net,010-621-3050, FEMALE
-U0128,Kristin Nguyen,jeongho05@GMAIL.COM,011-471-4022,male
-U0129,  Joyce    Acevedo  ,tbag@GMAIL.COM,011-944-9235,F
-U0130,  Miss    Michelle  Simpson ,kgim@yahoo.com,010-6927-8945,Female
-U0131,   Sarah    Ortiz,siu32@kakao.com,010-974-2520,Male 
-U0132,Alyssa  Lopez,simhyeonji@yahoo.com,010-0529-5465,F
+U0128,Kristin Nguyen,jeongho05@GMAIL.COM,011-471-4022,   male 
+U0129,  Joyce    Acevedo  ,tbag@GMAIL.COM,011-944-9235,F  
+U0130,  Miss    Michelle  Simpson ,kgim@yahoo.com,010-6927-8945, Female   
+U0131,   Sarah    Ortiz,siu32@kakao.com,010-974-2520,  Male  
+U0132,Alyssa  Lopez,simhyeonji@yahoo.com,010-0529-5465,F   
 U0133,Victoria Murillo,bagyeongsug@daum.net,011-435-5120,Female
-U0134,  Jeremy Gibson  ,seonghun24@KAKAO.COM,011-245-8770,MALE
-U0135,  Michelle  Compton  ,yejun43@naver.com,011-053-2867,male
-U0136,  Wayne   Schmidt  ,ugang@kakao.com,010-916-5418,Male 
-U0137,Kimberly   Davis   ,jihyegim@kakao.com,010-6111-0575, FEMALE
-U0138,Juan Wu   ,gosunja@KAKAO.COM,011-483-4695,male
-U0139,Carrie Young,sgim@NAVER.COM,010 5463 6404,Female
+U0134,  Jeremy Gibson  ,seonghun24@KAKAO.COM,011-245-8770,MALE 
+U0135,  Michelle  Compton  ,yejun43@naver.com,011-053-2867,  male  
+U0136,  Wayne   Schmidt  ,ugang@kakao.com,010-916-5418,   Male    
+U0137,Kimberly   Davis   ,jihyegim@kakao.com,010-6111-0575, FEMALE   
+U0138,Juan Wu   ,gosunja@KAKAO.COM,011-483-4695,   male 
+U0139,Carrie Young,sgim@NAVER.COM,010 5463 6404,Female   
 U0140,Christie Hinton ,yeongsiggim@kakao.com,011-937-7879,M
-U0141,  Jillian  Smith,jgim@KAKAO.COM,010-5422-7133,MALE
-U0142,  Jeffery  Summers,bgim@naver.com,010-0763-2722,F
+U0141,  Jillian  Smith,jgim@KAKAO.COM,010-5422-7133,MALE  
+U0142,  Jeffery  Summers,bgim@naver.com,010-0763-2722,   F
 U0143,Melinda  Cunningham,ijeongsug@gmail.com,010-7727-7618,Male 
-U0144,Caleb Hughes  ,angyeonghyi@GMAIL.COM,010-3587-8124,male
-U0145,Calvin Miller,ogim@GMAIL.COM,010-8470-8565,Female
-U0146,   Mark    Wright   ,minjii@kakao.com,010 6769 6626,male
+U0144,Caleb Hughes  ,angyeonghyi@GMAIL.COM,010-3587-8124,  male
+U0145,Calvin Miller,ogim@GMAIL.COM,010-8470-8565,Female   
+U0146,   Mark    Wright   ,minjii@kakao.com,010 6769 6626, male   
 U0147,  Elizabeth  Mcclain,aha@yahoo.com,010-7993-6909,male
 U0148,Daniel Bowman,eungyeongbag@DAUM.NET,010-3418-7363,M
-U0149,  James Scott,gimjinu@yahoo.com,011-355-1999, female 
-U0150,Kyle Adams  ,iboram@GMAIL.COM,010.9593.1455, FEMALE
-U0151,  Bruce    Burke,sugjajo@daum.net,010-366-0964, FEMALE
-U0152,Rachel    Hernandez   ,gimjunho@yahoo.com,010 6033 6283, female 
+U0149,  James Scott,gimjinu@yahoo.com,011-355-1999,    female 
+U0150,Kyle Adams  ,iboram@GMAIL.COM,010.9593.1455,  FEMALE   
+U0151,  Bruce    Burke,sugjajo@daum.net,010-366-0964, FEMALE  
+U0152,Rachel    Hernandez   ,gimjunho@yahoo.com,010 6033 6283,  female 
 U0153,Rachel   Thompson,borami@DAUM.NET,010 1917 2547,Male 
 U0154,   Nicholas    Mitchell,zsim@kakao.com,010-6052-1842, female 
-U0155,Amanda   Campbell,hyejingo@daum.net,011-442-1172,male
-U0156,  James Wheeler  ,yeongho59@KAKAO.COM,010-477-0665,M
-U0157,  Mark    Wagner,gyeongsugi@yahoo.com,010-862-2333,MALE
-U0158,  Michelle  Saunders,ki@kakao.com,010-812-2278,M
-U0159,   Joshua   Thomas,ijeongsu@daum.net,010-5577-6597,M
+U0155,Amanda   Campbell,hyejingo@daum.net,011-442-1172,   male
+U0156,  James Wheeler  ,yeongho59@KAKAO.COM,010-477-0665, M
+U0157,  Mark    Wagner,gyeongsugi@yahoo.com,010-862-2333, MALE 
+U0158,  Michelle  Saunders,ki@kakao.com,010-812-2278,  M
+U0159,   Joshua   Thomas,ijeongsu@daum.net,010-5577-6597,M   
 U0160,Christopher   Lopez,wi@KAKAO.COM,011-778-0537, female 
-U0161,   Samuel  Guzman   ,hyeonjucoe@DAUM.NET,010 2005 1060,male
+U0161,   Samuel  Guzman   ,hyeonjucoe@DAUM.NET,010 2005 1060,  male   
 U0162,Cynthia  Cowan,seunghyeoncoe@KAKAO.COM,010 5585 8850,F
 U0163, Brandon    Jackson ,cgim@daum.net,010 0188 9226,Male 
-U0164,Charles    White   ,junhocoe@yahoo.com,010-9265-8364,Female
-U0165,   Ashley   Blackburn   ,fgo@kakao.com,010.4602.5401,MALE
-U0166,  Katherine   Green  ,mi@kakao.com,010-8057-6786, FEMALE
+U0164,Charles    White   ,junhocoe@yahoo.com,010-9265-8364,Female   
+U0165,   Ashley   Blackburn   ,fgo@kakao.com,010.4602.5401,MALE 
+U0166,  Katherine   Green  ,mi@kakao.com,010-8057-6786, FEMALE 
 U0167, Michelle  Adams   ,ji@DAUM.NET,010.2087.3620,M
 U0168,   Robert  Thompson   ,haeun82@yahoo.com,010-440-3454,F
 U0169,Heather   White,ngim@kakao.com,010-255-3752,F
 U0170, William   Cole   ,mgim@daum.net,010 6497 4561,M
 U0171,Dr.  Christina   Gilbert PhD,agim@DAUM.NET,010.1783.0597,F
 U0172,Joshua  Donaldson,ji@naver.com,010.6964.1640,Female
-U0173,Thomas Mitchell,pcoe@gmail.com,010 9996 8319,M
+U0173,Thomas Mitchell,pcoe@gmail.com,010 9996 8319,M  
 U0174,  Kendra    Richards ,baeyeongsun@naver.com,010 0274 1669,Female
-U0175,Stephanie   Butler ,rhong@DAUM.NET,010-7537-6617,male
-U0176,   David    Hughes,gimyujin@DAUM.NET,010-9158-9685,M
-U0177,   Tonya Black,gimeungyeong@gmail.com,011-573-5533, FEMALE
-U0178,Kyle Diaz  ,eomjia@naver.com,011-273-6619,MALE
-U0179,Philip  Kemp  ,bagmiyeong@kakao.com,010-4329-8145,M
-U0180,Seth   Parker,migyeong10@KAKAO.COM,010-2275-6584, female 
-U0181,Keith   Mosley   ,ii@KAKAO.COM,010-9841-2752,male
-U0182,Zachary Palmer ,haeunan@gmail.com,010 6743 0959, FEMALE
-U0183,Mary   Allen ,cgim@GMAIL.COM,011-089-4365,Female
-U0184,  Jessica Burnett   ,yeongsig04@yahoo.com,011-552-4792,M
-U0185, Terri    George  ,yeongja31@yahoo.com,010 1320 9419,Male 
+U0175,Stephanie   Butler ,rhong@DAUM.NET,010-7537-6617,   male 
+U0176,   David    Hughes,gimyujin@DAUM.NET,010-9158-9685, M
+U0177,   Tonya Black,gimeungyeong@gmail.com,011-573-5533,   FEMALE   
+U0178,Kyle Diaz  ,eomjia@naver.com,011-273-6619, MALE   
+U0179,Philip  Kemp  ,bagmiyeong@kakao.com,010-4329-8145, M  
+U0180,Seth   Parker,migyeong10@KAKAO.COM,010-2275-6584,   female  
+U0181,Keith   Mosley   ,ii@KAKAO.COM,010-9841-2752,male   
+U0182,Zachary Palmer ,haeunan@gmail.com,010 6743 0959, FEMALE   
+U0183,Mary   Allen ,cgim@GMAIL.COM,011-089-4365, Female
+U0184,  Jessica Burnett   ,yeongsig04@yahoo.com,011-552-4792,  M
+U0185, Terri    George  ,yeongja31@yahoo.com,010 1320 9419,Male    
 U0186, Brent    Robinson,jimin54@yahoo.com,010-1192-8548,Female
-U0187,   Joshua  Johnson ,jaehyeon38@GMAIL.COM,010-5473-5198,male
-U0188,Hailey   Anderson ,eunjicoe@GMAIL.COM,010-3966-5503,male
-U0189,Dominique   Henderson,rgo@naver.com,010-941-1844,MALE
+U0187,   Joshua  Johnson ,jaehyeon38@GMAIL.COM,010-5473-5198,male  
+U0188,Hailey   Anderson ,eunjicoe@GMAIL.COM,010-3966-5503, male   
+U0189,Dominique   Henderson,rgo@naver.com,010-941-1844,MALE 
 U0190,  Eric   Smith,sugja41@DAUM.NET,010 6607 5434,M
 U0191,Casey    Johnson,yeongceol81@KAKAO.COM,010.6435.7395,M
 U0192,   Jessica    Phillips  ,yeongceolcoe@yahoo.com,010.7313.5864, female 
-U0193,Alexander   Ward ,gimjihye@naver.com,010.0420.8421,M
-U0194,Donna Caldwell,qbag@GMAIL.COM,010.0940.3889,M
-U0195,Margaret   Taylor,ui@yahoo.com,010-687-9230,M
-U0196,   Erin  Friedman  ,ijang@KAKAO.COM,010 7269 5519, female 
-U0197,Heather  Salazar  ,junseo20@daum.net,011-946-3767,MALE
+U0193,Alexander   Ward ,gimjihye@naver.com,010.0420.8421,M  
+U0194,Donna Caldwell,qbag@GMAIL.COM,010.0940.3889,  M  
+U0195,Margaret   Taylor,ui@yahoo.com,010-687-9230, M  
+U0196,   Erin  Friedman  ,ijang@KAKAO.COM,010 7269 5519, female   
+U0197,Heather  Salazar  ,junseo20@daum.net,011-946-3767, MALE   
 U0198,  Emily Nolan   ,jeongnambag@naver.com,011-190-0802,F
-U0199,Amy Patterson   ,jieunjo@YAHOO.COM,010-6911-1767,Female
-U0200,  Brian    Valenzuela,boram51@yahoo.com,010-1730-7869,M
-U0201,  Erik Evans ,ui@YAHOO.COM,010.2668.7469,MALE
-U0202,Kenneth    Johnson,lgim@yahoo.com,010 2857 3405,male
-U0203,Erin Case,lgim@yahoo.com,011-014-3014, FEMALE
-U0204,   Kayla    Daniels  ,baegjungsu@kakao.com,010 9299 2406,F
+U0199,Amy Patterson   ,jieunjo@YAHOO.COM,010-6911-1767,   Female   
+U0200,  Brian    Valenzuela,boram51@yahoo.com,010-1730-7869, M
+U0201,  Erik Evans ,ui@YAHOO.COM,010.2668.7469, MALE
+U0202,Kenneth    Johnson,lgim@yahoo.com,010 2857 3405,  male
+U0203,Erin Case,lgim@yahoo.com,011-014-3014, FEMALE   
+U0204,   Kayla    Daniels  ,baegjungsu@kakao.com,010 9299 2406,  F   
 U0205,Robert    Smith   ,jimin45@naver.com,010 4865 7228, female 
-U0206,William  Clark   ,seojieun@KAKAO.COM,011-045-5459,Male 
-U0207,   John    Davis,seongmin23@KAKAO.COM,010 9768 6151,F
+U0206,William  Clark   ,seojieun@KAKAO.COM,011-045-5459,Male   
+U0207,   John    Davis,seongmin23@KAKAO.COM,010 9768 6151, F
 U0208,Katie  Martin ,ggang@naver.com,011-339-6255,Male 
-U0209, Brenda    Eaton ,seohyeon53@yahoo.com,010-1274-0047,Female
+U0209, Brenda    Eaton ,seohyeon53@yahoo.com,010-1274-0047,   Female   
 U0210,   Lisa  Lyons   ,rgwag@yahoo.com,011-570-3109,MALE
-U0211,  Danielle   Johnson,jihugim@NAVER.COM,010-981-6846,male
-U0212, Jacob  Clark   ,cunja39@daum.net,011-677-2187, FEMALE
-U0213,Andrew  Evans  ,wca@naver.com,010-183-7622,Female
-U0214,Colton   Norris,minjun65@gmail.com,010-0046-2678, female 
-U0215,  Alex Frederick,gimyujin@NAVER.COM,010-4321-1679,MALE
-U0216,Derrick    Williams  ,yunseoi@naver.com,010.7558.1430,MALE
+U0211,  Danielle   Johnson,jihugim@NAVER.COM,010-981-6846,  male
+U0212, Jacob  Clark   ,cunja39@daum.net,011-677-2187, FEMALE   
+U0213,Andrew  Evans  ,wca@naver.com,010-183-7622,Female  
+U0214,Colton   Norris,minjun65@gmail.com,010-0046-2678, female    
+U0215,  Alex Frederick,gimyujin@NAVER.COM,010-4321-1679,  MALE
+U0216,Derrick    Williams  ,yunseoi@naver.com,010.7558.1430,  MALE
 U0217,   Erin   Carlson  ,jumisug@daum.net,010 7275 3812, female 
-U0218,Kayla  Hurst  ,eungyeong26@kakao.com,010.8550.9402,MALE
+U0218,Kayla  Hurst  ,eungyeong26@kakao.com,010.8550.9402,   MALE
 U0219,Emily  Love  ,ijeongsig@YAHOO.COM,010.4607.2401,male
 U0220,John    Blackwell,kgim@NAVER.COM,011-988-7886,F
-U0221,Craig    Andrade,seungmin32@YAHOO.COM,010-4722-2492,M
-U0222, Katie  Klein   ,wmun@daum.net,010-774-3034,MALE
-U0223,Sierra   Jackson,bagjinu@gmail.com,011-730-6321,F
+U0221,Craig    Andrade,seungmin32@YAHOO.COM,010-4722-2492,   M
+U0222, Katie  Klein   ,wmun@daum.net,010-774-3034, MALE
+U0223,Sierra   Jackson,bagjinu@gmail.com,011-730-6321,  F  
 U0224,  Jessica    Mcgee ,eunjubag@daum.net,010-431-3304, female 
-U0225,Tanner    Mcintosh,qgang@kakao.com,010.3015.7773,Female
-U0226,Robert Nelson    MD   ,misugbaeg@yahoo.com,011-022-0372,Male 
-U0227,Joshua    Donovan DDS,myeongjagim@daum.net,011-777-3044, female 
-U0228,Thomas    Webster,eunjicoe@gmail.com,010-8592-7176,male
-U0229,Jeremy    Cervantes ,bagjihye@yahoo.com,010 8678 3464, FEMALE
-U0230,Michael  White,qyang@KAKAO.COM,011-780-0898,Male 
-U0231,Manuel  Lynch ,lji@gmail.com,010.5209.0647, FEMALE
-U0232,   Jose Caldwell ,areum02@kakao.com,010 2622 9946,F
-U0233, Nicholas Rich  ,hyeonjun81@yahoo.com,010-3007-8164,F
-U0234,   Christopher    Ford   ,ijunhyeog@yahoo.com,010 0359 6918,MALE
-U0235,   Mr.  Matthew  Lozano,yeongsugbag@YAHOO.COM,010-0780-9984,Female
-U0236,   Angel  Mathis  ,ogja33@daum.net,010-1430-8911, female 
-U0237,   Frank   Golden  ,wson@naver.com,010-3748-8714,MALE
+U0225,Tanner    Mcintosh,qgang@kakao.com,010.3015.7773,  Female
+U0226,Robert Nelson    MD   ,misugbaeg@yahoo.com,011-022-0372, Male   
+U0227,Joshua    Donovan DDS,myeongjagim@daum.net,011-777-3044,    female 
+U0228,Thomas    Webster,eunjicoe@gmail.com,010-8592-7176, male
+U0229,Jeremy    Cervantes ,bagjihye@yahoo.com,010 8678 3464,  FEMALE
+U0230,Michael  White,qyang@KAKAO.COM,011-780-0898, Male 
+U0231,Manuel  Lynch ,lji@gmail.com,010.5209.0647, FEMALE 
+U0232,   Jose Caldwell ,areum02@kakao.com,010 2622 9946, F 
+U0233, Nicholas Rich  ,hyeonjun81@yahoo.com,010-3007-8164,   F   
+U0234,   Christopher    Ford   ,ijunhyeog@yahoo.com,010 0359 6918,MALE   
+U0235,   Mr.  Matthew  Lozano,yeongsugbag@YAHOO.COM,010-0780-9984,Female  
+U0236,   Angel  Mathis  ,ogja33@daum.net,010-1430-8911,   female    
+U0237,   Frank   Golden  ,wson@naver.com,010-3748-8714, MALE
 U0238,Aaron   Golden  ,sumin35@gmail.com,010-0837-4919,Male 
-U0239,John   Cain  ,eyun@daum.net,010 9754 4719,F
+U0239,John   Cain  ,eyun@daum.net,010 9754 4719,   F   
 U0240,  Thomas   Richards  ,junho63@daum.net,010.9934.9919, female 
 U0241,  Johnny    Brooks,rcoe@yahoo.com,010.7990.6406,male
-U0242,Erin   Webb   ,sunoghan@GMAIL.COM,011-683-4596,Female
-U0243,   Luis    Matthews,nbag@kakao.com,010.9231.9257,Female
-U0244,David Hicks,jinhogim@kakao.com,011-917-0164,M
+U0242,Erin   Webb   ,sunoghan@GMAIL.COM,011-683-4596,Female  
+U0243,   Luis    Matthews,nbag@kakao.com,010.9231.9257, Female
+U0244,David Hicks,jinhogim@kakao.com,011-917-0164, M
 U0245, Dr.   Barbara  Vega   PhD,jihun03@naver.com,011-315-0466,M
-U0246,Lisa  Compton,gimjihun@YAHOO.COM,011-268-9645,F
-U0247,  William Jones  ,oseo@YAHOO.COM,011-963-0082,M
-U0248,  Christina  Russo  ,seonghun00@kakao.com,010.1602.5751, female 
-U0249,   Andrew  Bishop,yujinson@KAKAO.COM,011-855-1737,F
+U0246,Lisa  Compton,gimjihun@YAHOO.COM,011-268-9645,  F 
+U0247,  William Jones  ,oseo@YAHOO.COM,011-963-0082,M  
+U0248,  Christina  Russo  ,seonghun00@kakao.com,010.1602.5751,  female   
+U0249,   Andrew  Bishop,yujinson@KAKAO.COM,011-855-1737, F 
 U0250,Mr.   Robert   Palmer  ,yeonghwan86@YAHOO.COM,010 4881 8596,Male 
-U0251,Tyler   Martin ,gyeongsug58@KAKAO.COM,010-404-6387,Male 
-U0252,Robyn    Walker ,yujini@yahoo.com,010 8288 4397,Female
+U0251,Tyler   Martin ,gyeongsug58@KAKAO.COM,010-404-6387,   Male 
+U0252,Robyn    Walker ,yujini@yahoo.com,010 8288 4397, Female  
 U0253,William    Clark,seonghun39@yahoo.com,010.4997.9596,Female
-U0254,  Karen   Hunter   ,haeun85@YAHOO.COM,010.0098.6085, FEMALE
-U0255,   Richard Stokes,ynam@naver.com,011-460-7698,Male 
-U0256,Ashley   Gibson,vgim@yahoo.com,010.3849.8670, FEMALE
-U0257,Mr.   Justin Woodard   ,byeongceolgim@daum.net,011-522-1177,male
-U0258,Debra   Woods ,ijo@GMAIL.COM,010-811-6766,F
-U0259,Kenneth    Golden  ,yeongceol64@yahoo.com,010 9224 9043,male
-U0260, Mary Thompson  ,jangsanghyeon@daum.net,011-707-9979,M
-U0261,   Mariah Rice  ,seoyeon69@daum.net,011-465-6327, FEMALE
-U0262,Tiffany   Tran,doyunjang@gmail.com,010.3968.5583, female 
+U0254,  Karen   Hunter   ,haeun85@YAHOO.COM,010.0098.6085,    FEMALE  
+U0255,   Richard Stokes,ynam@naver.com,011-460-7698,   Male 
+U0256,Ashley   Gibson,vgim@yahoo.com,010.3849.8670,    FEMALE   
+U0257,Mr.   Justin Woodard   ,byeongceolgim@daum.net,011-522-1177, male
+U0258,Debra   Woods ,ijo@GMAIL.COM,010-811-6766, F 
+U0259,Kenneth    Golden  ,yeongceol64@yahoo.com,010 9224 9043,male  
+U0260, Mary Thompson  ,jangsanghyeon@daum.net,011-707-9979,   M 
+U0261,   Mariah Rice  ,seoyeon69@daum.net,011-465-6327,    FEMALE  
+U0262,Tiffany   Tran,doyunjang@gmail.com,010.3968.5583,  female 
 U0263,Brenda    Porter,coeseojun@yahoo.com,011-482-4471,Male 
 U0264,Ashlee    Benson,eunjui@daum.net,011-421-8750,F
-U0265,Ashley    Lang   ,jihyebag@daum.net,010 2120 8032, FEMALE
+U0265,Ashley    Lang   ,jihyebag@daum.net,010 2120 8032,    FEMALE 
 U0266,  Yesenia   Walker,jeonghyi49@gmail.com,010-338-1967,F
-U0267,   Thomas   Lee   ,minji88@YAHOO.COM,010-9384-3405,MALE
+U0267,   Thomas   Lee   ,minji88@YAHOO.COM,010-9384-3405, MALE
 U0268,  Cynthia   Mercer ,coeyeongil@daum.net,010-7060-2570,male
-U0269, Regina    Atkins,egim@naver.com,010 2380 7976,MALE
+U0269, Regina    Atkins,egim@naver.com,010 2380 7976,MALE  
 U0270,  Jennifer Sanchez ,rca@NAVER.COM,010-843-9476,male
 U0271,   Zachary  Vargas ,sinjia@kakao.com,010-923-9731, female 
-U0272, Megan  Morgan,bageunju@yahoo.com,010.2569.5341, female 
+U0272, Megan  Morgan,bageunju@yahoo.com,010.2569.5341,  female 
 U0273, David Ashley,yangeunyeong@naver.com,010-350-8533, female 
-U0274,Kelly   Howard ,qbag@DAUM.NET,010 9356 7207,Female
+U0274,Kelly   Howard ,qbag@DAUM.NET,010 9356 7207,Female 
 U0275, Nicole  Hamilton,gyeonghyi40@kakao.com,010.0215.4764,F
 U0276, Antonio Cooper  ,xi@naver.com,010 9130 4219,F
 U0277,Susan King  ,yeji89@naver.com,010.0353.7665, FEMALE
-U0278, Donald Rivera,gimjihyeon@KAKAO.COM,010.4588.3575,Male 
-U0279,Rita King,lcoe@naver.com,010.7973.4238,male
-U0280, Barry   Dunn  ,minji11@YAHOO.COM,010-857-1610,Female
-U0281, Anthony    Clark  ,junyeong41@YAHOO.COM,010.9578.5568,F
-U0282,Gina Sweeney ,seojuni@gmail.com,010-133-8308,Male 
-U0283,   Jamie Johnson,zbag@daum.net,010.5583.5471,male
-U0284,   Monica   Mcdonald,qi@YAHOO.COM,010.0915.2028, FEMALE
+U0278, Donald Rivera,gimjihyeon@KAKAO.COM,010.4588.3575, Male 
+U0279,Rita King,lcoe@naver.com,010.7973.4238,   male
+U0280, Barry   Dunn  ,minji11@YAHOO.COM,010-857-1610,Female   
+U0281, Anthony    Clark  ,junyeong41@YAHOO.COM,010.9578.5568,  F
+U0282,Gina Sweeney ,seojuni@gmail.com,010-133-8308,  Male    
+U0283,   Jamie Johnson,zbag@daum.net,010.5583.5471, male   
+U0284,   Monica   Mcdonald,qi@YAHOO.COM,010.0915.2028,    FEMALE
 U0285,Kimberly    Soto   ,yeonghwan16@NAVER.COM,010 7888 1838,Female
-U0286,Joshua Martin,junyeongson@yahoo.com,010.9435.6778,M
-U0287, Christine  Barber  ,jeongsigryu@NAVER.COM,011-067-6197, FEMALE
-U0288, Stephen    Wright  ,dgim@naver.com,010 7461 9099, FEMALE
-U0289, Thomas   Johns,gimyejun@kakao.com,010-197-6569,Male 
-U0290, Barry    Smith ,jaehyeon16@yahoo.com,010-4645-1506,Male 
-U0291,Jeffrey   Camacho,gimjinho@kakao.com,011-333-5986, FEMALE
-U0292,Christine   Jackson   ,junseo38@kakao.com,011-757-7995, FEMALE
-U0293,Marc    Hutchinson,heohayun@naver.com,010.7337.3183, FEMALE
-U0294,Joseph   Owens   ,ti@GMAIL.COM,010-600-1524,F
-U0295,  Ebony  Shields ,jeongsugo@kakao.com,010-895-0841,M
-U0296,Frank   Gilbert  ,ogsunmun@kakao.com,011-690-1809, FEMALE
-U0297,Charles  Farley,gyeongja02@naver.com,010-997-0304,Female
-U0298,Brian Santos,mji@kakao.com,010.2713.0563, female 
-U0299,  Joan   Bell,eomjunho@daum.net,011-702-9592, female 
-U0300, Dr.   Jessica   Rivera,yejun06@naver.com,010 0717 9644,M
+U0286,Joshua Martin,junyeongson@yahoo.com,010.9435.6778,  M 
+U0287, Christine  Barber  ,jeongsigryu@NAVER.COM,011-067-6197, FEMALE   
+U0288, Stephen    Wright  ,dgim@naver.com,010 7461 9099, FEMALE   
+U0289, Thomas   Johns,gimyejun@kakao.com,010-197-6569, Male   
+U0290, Barry    Smith ,jaehyeon16@yahoo.com,010-4645-1506,Male   
+U0291,Jeffrey   Camacho,gimjinho@kakao.com,011-333-5986, FEMALE   
+U0292,Christine   Jackson   ,junseo38@kakao.com,011-757-7995,   FEMALE   
+U0293,Marc    Hutchinson,heohayun@naver.com,010.7337.3183,  FEMALE
+U0294,Joseph   Owens   ,ti@GMAIL.COM,010-600-1524,F 
+U0295,  Ebony  Shields ,jeongsugo@kakao.com,010-895-0841, M
+U0296,Frank   Gilbert  ,ogsunmun@kakao.com,011-690-1809,  FEMALE 
+U0297,Charles  Farley,gyeongja02@naver.com,010-997-0304,Female   
+U0298,Brian Santos,mji@kakao.com,010.2713.0563,    female   
+U0299,  Joan   Bell,eomjunho@daum.net,011-702-9592, female    
+U0300, Dr.   Jessica   Rivera,yejun06@naver.com,010 0717 9644, M
 U0301,   Scott    Gomez,lgim@daum.net,011-466-3368, FEMALE
-U0302,   Kristina Dominguez  ,suminseo@naver.com,010-4602-8915, female 
-U0303,  Adam    Golden  ,doyun81@naver.com,010 4806 8666,male
-U0304,Rachel Weber   ,hyeonji98@YAHOO.COM,010-634-1302,F
+U0302,   Kristina Dominguez  ,suminseo@naver.com,010-4602-8915, female   
+U0303,  Adam    Golden  ,doyun81@naver.com,010 4806 8666,   male 
+U0304,Rachel Weber   ,hyeonji98@YAHOO.COM,010-634-1302,  F
 U0305,Kristopher Smith   ,imigyeong@naver.com,011-970-3153,Male 
-U0306,  Darrell    Cruz ,xsong@daum.net,010 8786 9059, FEMALE
-U0307, Katie Moss   ,ci@yahoo.com,010.2661.5574,MALE
-U0308,Jamie    Aguilar ,ijiu@gmail.com,010 7889 6984,F
-U0309,William    Gomez ,fbag@naver.com,010-196-5661,Female
-U0310,Nicholas   Smith,yunseogang@kakao.com,010-150-1065,Male 
-U0311, Cassandra   Johnson   ,ihyeonju@yahoo.com,010 8321 7774,Male 
+U0306,  Darrell    Cruz ,xsong@daum.net,010 8786 9059, FEMALE  
+U0307, Katie Moss   ,ci@yahoo.com,010.2661.5574,   MALE
+U0308,Jamie    Aguilar ,ijiu@gmail.com,010 7889 6984,  F
+U0309,William    Gomez ,fbag@naver.com,010-196-5661,Female  
+U0310,Nicholas   Smith,yunseogang@kakao.com,010-150-1065,  Male    
+U0311, Cassandra   Johnson   ,ihyeonju@yahoo.com,010 8321 7774,  Male    
 U0312,  Julia    Wright,bagyeonggil@GMAIL.COM,010 7383 2682,F
-U0313,Linda  Frank,wan@DAUM.NET,010.1353.7735, female 
-U0314,   Danielle   Shea ,jeonghoson@NAVER.COM,010-4802-6598, FEMALE
-U0315,Nancy    Hoffman,hyeonuan@YAHOO.COM,011-054-0123,MALE
-U0316,James    Williams,junho97@DAUM.NET,010 2955 1930,F
-U0317,  Sheila    Gibson  ,bgu@yahoo.com,010-6568-5423,male
-U0318,Mary  Young,ganggyeongsu@gmail.com,010-8654-7463, FEMALE
+U0313,Linda  Frank,wan@DAUM.NET,010.1353.7735,  female    
+U0314,   Danielle   Shea ,jeonghoson@NAVER.COM,010-4802-6598,  FEMALE
+U0315,Nancy    Hoffman,hyeonuan@YAHOO.COM,011-054-0123,   MALE
+U0316,James    Williams,junho97@DAUM.NET,010 2955 1930, F   
+U0317,  Sheila    Gibson  ,bgu@yahoo.com,010-6568-5423,male  
+U0318,Mary  Young,ganggyeongsu@gmail.com,010-8654-7463,    FEMALE 
 U0319, Elizabeth   Wood   ,juweon13@daum.net,011-717-8590,MALE
-U0320,Maria    Thornton  ,munseongho@yahoo.com,010 4974 3707,Female
+U0320,Maria    Thornton  ,munseongho@yahoo.com,010 4974 3707,Female  
 U0321, Denise   Bentley   ,yi@YAHOO.COM,011-661-8909, FEMALE
-U0322,Kristina Morrison  DVM   ,bgim@daum.net,010-081-2644,MALE
-U0323, Paul  Frost ,caeweon32@yahoo.com,010-5752-8885,Female
+U0322,Kristina Morrison  DVM   ,bgim@daum.net,010-081-2644,   MALE 
+U0323, Paul  Frost ,caeweon32@yahoo.com,010-5752-8885,   Female
 U0324,Margaret  Young,jeongsugi@kakao.com,010-8261-3955,Male 
-U0325,Patrick  Walsh,areumbae@gmail.com,010.6629.9070,male
-U0326,Scott    Jones,gimmisug@DAUM.NET,010-1920-1913,Male 
+U0325,Patrick  Walsh,areumbae@gmail.com,010.6629.9070, male
+U0326,Scott    Jones,gimmisug@DAUM.NET,010-1920-1913,Male  
 U0327,Kara    Fitzgerald,ui@kakao.com,010.6105.4483,male
-U0328,Michelle   Francis,vgim@kakao.com,010.9749.8823,F
-U0329,  Mr.  Tyler    Martin,bagsangceol@naver.com,010-0266-4482, female 
+U0328,Michelle   Francis,vgim@kakao.com,010.9749.8823, F  
+U0329,  Mr.  Tyler    Martin,bagsangceol@naver.com,010-0266-4482,  female 
 U0330,Mary   Lane ,lbag@naver.com,010-7059-8056,F
-U0331, Alex   Rivera  ,ni@yahoo.com,011-382-5880, female 
-U0332,Keith Cox,jihun80@DAUM.NET,010-8435-0736,F
-U0333,Tyler Rose,iseonghun@gmail.com,010-594-7884,MALE
-U0334,Mary    Haley,egim@DAUM.NET,010-9630-9772,Female
+U0331, Alex   Rivera  ,ni@yahoo.com,011-382-5880,  female 
+U0332,Keith Cox,jihun80@DAUM.NET,010-8435-0736,   F   
+U0333,Tyler Rose,iseonghun@gmail.com,010-594-7884,  MALE
+U0334,Mary    Haley,egim@DAUM.NET,010-9630-9772,   Female  
 U0335,   Derrick Taylor,oi@kakao.com,010-912-5337, FEMALE
-U0336,Donald   Page,minseoi@kakao.com,010 0437 5118,Female
-U0337,  John Rhodes,coeogja@daum.net,010-5878-8058, FEMALE
-U0338,   Dr. Victor  Gonzalez  ,yeongsugsong@yahoo.com,010 6077 9814,F
-U0339,  Samantha  Roberts  ,geonugim@GMAIL.COM,010.4421.0873,M
-U0340,Laura Lewis,minsugim@GMAIL.COM,010.1584.1048, FEMALE
+U0336,Donald   Page,minseoi@kakao.com,010 0437 5118,  Female
+U0337,  John Rhodes,coeogja@daum.net,010-5878-8058, FEMALE  
+U0338,   Dr. Victor  Gonzalez  ,yeongsugsong@yahoo.com,010 6077 9814,F  
+U0339,  Samantha  Roberts  ,geonugim@GMAIL.COM,010.4421.0873,  M
+U0340,Laura Lewis,minsugim@GMAIL.COM,010.1584.1048,   FEMALE
 U0341,   Jacqueline Santos,coeyeongja@gmail.com,011-621-4477,MALE
-U0342,   Joshua   Jordan,eungyeong44@yahoo.com,011-682-4891,F
+U0342,   Joshua   Jordan,eungyeong44@yahoo.com,011-682-4891,   F 
 U0343,   Richard  Brown,jangjunyeong@DAUM.NET,010-8926-9682,MALE
-U0344,   Christopher   Jones,ujingim@kakao.com,010 8118 9144,Male 
+U0344,   Christopher   Jones,ujingim@kakao.com,010 8118 9144,Male    
 U0345,   Daniel    Moran,ru@daum.net,010 5787 9769,MALE
 U0346,Alexander   Kennedy,yunseoi@KAKAO.COM,010 8324 9353,M
-U0347,Joseph   Alvarez,ygim@naver.com,010-8395-9725, female 
+U0347,Joseph   Alvarez,ygim@naver.com,010-8395-9725,   female  
 U0348,Michelle Sawyer  ,eunyeonggim@kakao.com,010-2181-7032,MALE
 U0349, Melanie Edwards,doyuni@yahoo.com,010 7033 1602,MALE
 U0350,Grant   Russell ,seongsu44@YAHOO.COM,010-9017-3820,MALE
 U0351,  Christopher  Davis,jeongho74@naver.com,010 4309 9769, FEMALE
-U0352,Jill Warner,yeongsugang@yahoo.com,010-7413-9525,Female
-U0353,Heather Chavez,iyeongja@kakao.com,010-371-6989,male
-U0354,Andrew  Jones ,gimseoyun@daum.net,010 2936 9581, female 
+U0352,Jill Warner,yeongsugang@yahoo.com,010-7413-9525,  Female  
+U0353,Heather Chavez,iyeongja@kakao.com,010-371-6989,male  
+U0354,Andrew  Jones ,gimseoyun@daum.net,010 2936 9581,   female  
 U0355,David  Walker  ,jeongjagim@kakao.com,010-327-1210,Male 
-U0356,Thomas  Perry,jiu95@DAUM.NET,010-2630-8803, female 
-U0357, Jeremiah    Jones  ,hyejin84@DAUM.NET,010-462-1793,male
-U0358,   Nicole  Peterson,jinu10@DAUM.NET,010.0810.6142,F
-U0359,Andrew    Smith,gi@daum.net,011-566-8938,male
-U0360,Anne    Fischer,bgim@yahoo.com,010-1205-6888,M
+U0356,Thomas  Perry,jiu95@DAUM.NET,010-2630-8803,    female 
+U0357, Jeremiah    Jones  ,hyejin84@DAUM.NET,010-462-1793,male  
+U0358,   Nicole  Peterson,jinu10@DAUM.NET,010.0810.6142,F  
+U0359,Andrew    Smith,gi@daum.net,011-566-8938,male 
+U0360,Anne    Fischer,bgim@yahoo.com,010-1205-6888, M
 U0361,Christopher  Perez  ,gimjia@yahoo.com,010 6335 4241,male
 U0362,Daniel   Patterson   ,yeonggil49@YAHOO.COM,011-406-6137,F
-U0363, Brian Parsons   ,jhan@naver.com,010.3298.1939,Female
-U0364,Michael  Norris ,cunja21@daum.net,011-278-4507,Female
+U0363, Brian Parsons   ,jhan@naver.com,010.3298.1939,  Female   
+U0364,Michael  Norris ,cunja21@daum.net,011-278-4507,  Female
 U0365,Timothy    Murray,xgweon@gmail.com,010.6292.6760, FEMALE
 U0366,   Justin    Wilson  ,jungsuyun@daum.net,010-4556-0021,Male 
-U0367,  Craig Chandler   DVM,dgim@daum.net,010-681-0749,male
+U0367,  Craig Chandler   DVM,dgim@daum.net,010-681-0749, male   
 U0368,Michael   Perez  ,minjunna@yahoo.com,010.3318.5797,male
-U0369,Kendra    Gaines   ,seunghyeongim@yahoo.com,010.2038.9221,MALE
-U0370, Kenneth    Perry,gmun@naver.com,010.7941.4579,MALE
-U0371, Joseph Adkins,jeongsig30@YAHOO.COM,011-388-1187,Female
-U0372, Miss    Brittany Tran   MD  ,wi@YAHOO.COM,011-381-2552,Female
-U0373,  Christine    Henderson,iseoyun@daum.net,010-770-3307,MALE
-U0374,Timothy Le,coegyeongsu@kakao.com,011-189-0448, female 
+U0369,Kendra    Gaines   ,seunghyeongim@yahoo.com,010.2038.9221,MALE 
+U0370, Kenneth    Perry,gmun@naver.com,010.7941.4579,MALE   
+U0371, Joseph Adkins,jeongsig30@YAHOO.COM,011-388-1187,  Female 
+U0372, Miss    Brittany Tran   MD  ,wi@YAHOO.COM,011-381-2552,Female  
+U0373,  Christine    Henderson,iseoyun@daum.net,010-770-3307, MALE
+U0374,Timothy Le,coegyeongsu@kakao.com,011-189-0448,   female    
 U0375, James  Roy,jieungim@gmail.com,010-215-8653,male
 U0376,Nathan  Oliver   ,gimyejun@DAUM.NET,011-346-6728,F
 U0377,Andrew Watson   ,ao@yahoo.com,010-499-5448, FEMALE
 U0378,  Margaret Cain  ,seoyun04@DAUM.NET,010.9114.6285,M
-U0379, Jeremy   Cameron ,jangjeonghyi@kakao.com,010.5977.7545, female 
-U0380,   Melanie   Wall,pgim@naver.com,010.5697.2508,MALE
-U0381,  Rachel   Hernandez,yan@daum.net,011-456-1861,Male 
-U0382,Taylor  Davis,yunseoryu@kakao.com,010.2788.7891, female 
-U0383,Adam    Green,zbag@naver.com,010-2584-1328,F
-U0384,Jessica Maxwell,cunja26@naver.com,010 1191 8188,male
+U0379, Jeremy   Cameron ,jangjeonghyi@kakao.com,010.5977.7545, female    
+U0380,   Melanie   Wall,pgim@naver.com,010.5697.2508,  MALE 
+U0381,  Rachel   Hernandez,yan@daum.net,011-456-1861,Male    
+U0382,Taylor  Davis,yunseoryu@kakao.com,010.2788.7891,    female   
+U0383,Adam    Green,zbag@naver.com,010-2584-1328, F
+U0384,Jessica Maxwell,cunja26@naver.com,010 1191 8188,male 
 U0385, Christopher Jarvis,qgim@GMAIL.COM,011-622-2343,male
-U0386,  Daniel Hernandez,pmun@kakao.com,010-8458-3669, FEMALE
-U0387,   Stacey    Lewis  ,rhan@NAVER.COM,010.9184.5548, female 
-U0388,Jeremiah Hahn ,juweonna@naver.com,010.3344.8126,M
-U0389,  Anthony   Williams,obag@NAVER.COM,011-343-8099,MALE
-U0390, Christopher    Watson  ,ggim@NAVER.COM,011-122-6078,Male 
+U0386,  Daniel Hernandez,pmun@kakao.com,010-8458-3669,   FEMALE 
+U0387,   Stacey    Lewis  ,rhan@NAVER.COM,010.9184.5548, female    
+U0388,Jeremiah Hahn ,juweonna@naver.com,010.3344.8126, M
+U0389,  Anthony   Williams,obag@NAVER.COM,011-343-8099, MALE
+U0390, Christopher    Watson  ,ggim@NAVER.COM,011-122-6078,Male  
 U0391,Edwin   Munoz,bbaeg@yahoo.com,010.8028.9585,M
-U0392,Kevin Alexander   ,hgim@KAKAO.COM,010 6149 6260,Female
-U0393,Matthew  Armstrong ,jaeho83@yahoo.com,010-9077-4358,F
-U0394,Monica   Hall   ,iminsu@naver.com,010-656-9306,Male 
-U0395,  Lisa    Morrison ,songyeongsu@kakao.com,010-3591-6458, female 
-U0396,Juan   Frye   ,minjae94@DAUM.NET,010-5293-5372,F
-U0397,   Ashley Goodman   ,lbag@naver.com,010-5940-9403,F
-U0398,Michael  Taylor   ,jeongsig51@GMAIL.COM,010-961-6362,F
-U0399, Justin    Russell   ,gwangsugim@gmail.com,011-455-1715,MALE
-U0400,   Kimberly   Williams ,nno@gmail.com,010-3113-2777,MALE
-U0401,Evan    Wright ,qgim@NAVER.COM,010-5964-5489,Female
-U0402,Hannah  Cain   ,imiyeong@naver.com,010 9438 3858, female 
-U0403, Luke   Kirk ,lgim@yahoo.com,010-1562-4833,Female
+U0392,Kevin Alexander   ,hgim@KAKAO.COM,010 6149 6260,Female 
+U0393,Matthew  Armstrong ,jaeho83@yahoo.com,010-9077-4358,  F
+U0394,Monica   Hall   ,iminsu@naver.com,010-656-9306,  Male   
+U0395,  Lisa    Morrison ,songyeongsu@kakao.com,010-3591-6458,    female  
+U0396,Juan   Frye   ,minjae94@DAUM.NET,010-5293-5372,F  
+U0397,   Ashley Goodman   ,lbag@naver.com,010-5940-9403,F   
+U0398,Michael  Taylor   ,jeongsig51@GMAIL.COM,010-961-6362,   F   
+U0399, Justin    Russell   ,gwangsugim@gmail.com,011-455-1715,MALE 
+U0400,   Kimberly   Williams ,nno@gmail.com,010-3113-2777,  MALE
+U0401,Evan    Wright ,qgim@NAVER.COM,010-5964-5489, Female  
+U0402,Hannah  Cain   ,imiyeong@naver.com,010 9438 3858,  female  
+U0403, Luke   Kirk ,lgim@yahoo.com,010-1562-4833,  Female
 U0404,Jonathan    Chen,jaehoi@daum.net,010-8034-5766,F
-U0405,  Adrian Ramirez,sujinsong@DAUM.NET,010 7829 3150, female 
-U0406,Alisha  Chavez  ,minseog16@kakao.com,011-450-1197,F
-U0407, Jeffrey  Walker   ,sujingim@gmail.com,011-440-1875,F
+U0405,  Adrian Ramirez,sujinsong@DAUM.NET,010 7829 3150,    female 
+U0406,Alisha  Chavez  ,minseog16@kakao.com,011-450-1197,   F   
+U0407, Jeffrey  Walker   ,sujingim@gmail.com,011-440-1875,   F
 U0408,James    Hill,hayun09@YAHOO.COM,010-3513-0658, female 
-U0409,Catherine   Adams,miyeonggo@naver.com,010.1813.6278,M
-U0410,Michelle   Johnson,ggim@DAUM.NET,010 0616 6639,M
-U0411,Angelica  Dixon,jungsu23@daum.net,011-938-1896,male
-U0412,Linda Santiago,gweonseungmin@kakao.com,010-0690-1730,F
-U0413,Adam  Mcguire   ,yeongmii@yahoo.com,010 0953 0840,Male 
-U0414,   David   Palmer ,seosangho@naver.com,011-152-0821,F
-U0415,   Kristin Frank,jinuji@yahoo.com,010.5315.1203,Male 
+U0409,Catherine   Adams,miyeonggo@naver.com,010.1813.6278,  M
+U0410,Michelle   Johnson,ggim@DAUM.NET,010 0616 6639,  M   
+U0411,Angelica  Dixon,jungsu23@daum.net,011-938-1896,  male  
+U0412,Linda Santiago,gweonseungmin@kakao.com,010-0690-1730, F
+U0413,Adam  Mcguire   ,yeongmii@yahoo.com,010 0953 0840, Male 
+U0414,   David   Palmer ,seosangho@naver.com,011-152-0821, F
+U0415,   Kristin Frank,jinuji@yahoo.com,010.5315.1203, Male 
 U0416,Chad    Smith,ygim@gmail.com,011-364-3789,Male 
-U0417,  Natasha Compton,cgim@GMAIL.COM,010 9683 6547,F
-U0418,   Jeffrey    Walls   ,jeongsugcoe@kakao.com,010-7421-5608,male
-U0419,Dorothy  Miller   ,sonjihun@kakao.com,010 8492 8247,MALE
-U0420,Traci Johnson,nhan@naver.com,010-648-6266,F
-U0421,  David   Allison,jeongnamcoe@kakao.com,010 8212 0646,Female
-U0422,   Angelica  Carroll,haeungweon@NAVER.COM,010.4811.8983,MALE
+U0417,  Natasha Compton,cgim@GMAIL.COM,010 9683 6547, F   
+U0418,   Jeffrey    Walls   ,jeongsugcoe@kakao.com,010-7421-5608,male   
+U0419,Dorothy  Miller   ,sonjihun@kakao.com,010 8492 8247,  MALE
+U0420,Traci Johnson,nhan@naver.com,010-648-6266,   F
+U0421,  David   Allison,jeongnamcoe@kakao.com,010 8212 0646,  Female 
+U0422,   Angelica  Carroll,haeungweon@NAVER.COM,010.4811.8983,   MALE  
 U0423,   Darrell Li,jeongnam95@yahoo.com,010-200-7720, FEMALE
 U0424,  Bobby   Palmer,junyeongbae@daum.net,011-090-4402,Female
 U0425,Ashley Norris   ,yeeunsong@YAHOO.COM,011-241-7064,Female
-U0426,   Harry  Hood,anyeongsug@NAVER.COM,010-1185-7208,MALE
-U0427,Evan   Jordan,jiminseo@gmail.com,011-414-0554, FEMALE
-U0428,   Frank Lowery,yeongho92@daum.net,010-2671-5207,M
-U0429,Lauren   Cervantes,ti@daum.net,010.2972.6370,F
-U0430,Julie    Nelson   ,gimyeongho@YAHOO.COM,010.5900.3358,male
+U0426,   Harry  Hood,anyeongsug@NAVER.COM,010-1185-7208,MALE   
+U0427,Evan   Jordan,jiminseo@gmail.com,011-414-0554, FEMALE 
+U0428,   Frank Lowery,yeongho92@daum.net,010-2671-5207,  M
+U0429,Lauren   Cervantes,ti@daum.net,010.2972.6370, F
+U0430,Julie    Nelson   ,gimyeongho@YAHOO.COM,010.5900.3358,male 
 U0431,Todd   Reynolds ,jiyeon88@gmail.com,010-2265-2207,F
-U0432, Jeffrey    Wells,junyeongo@yahoo.com,011-453-5374,male
-U0433,  Donald  Wilson  ,gimsubin@yahoo.com,010-2875-7269,M
-U0434,   Jeffrey  Solomon  ,jeongsanghyeon@kakao.com,011-003-6018, female 
-U0435,  Amanda    Gordon,imisug@kakao.com,010-1109-2529,male
-U0436,  Karla Duran  ,juweonseong@daum.net,011-683-4897,MALE
-U0437, Alexander  Rice  ,di@yahoo.com,010-037-9985,male
-U0438, Krystal    White,dgim@gmail.com,010-4817-7611, FEMALE
-U0439, Dawn   Clay   ,eunji90@YAHOO.COM,010.2829.4364,male
-U0440,  Jerry    Lawson ,sugja82@daum.net,010.7743.1998,F
-U0441,James    Pierce,minsu82@yahoo.com,010-0565-8494,M
-U0442,Jeffrey  Torres  ,pi@gmail.com,010-565-6786,M
-U0443,Patrick    Diaz,jeonghun36@gmail.com,010-635-0226, FEMALE
-U0444,Mrs.    Paige   Valentine,gimyeji@yahoo.com,010-728-1208,male
-U0445,  Carly    Alexander,jeonghoseo@gmail.com,010-696-4812,F
+U0432, Jeffrey    Wells,junyeongo@yahoo.com,011-453-5374,   male  
+U0433,  Donald  Wilson  ,gimsubin@yahoo.com,010-2875-7269, M   
+U0434,   Jeffrey  Solomon  ,jeongsanghyeon@kakao.com,011-003-6018,    female 
+U0435,  Amanda    Gordon,imisug@kakao.com,010-1109-2529,male   
+U0436,  Karla Duran  ,juweonseong@daum.net,011-683-4897, MALE   
+U0437, Alexander  Rice  ,di@yahoo.com,010-037-9985,   male  
+U0438, Krystal    White,dgim@gmail.com,010-4817-7611,    FEMALE  
+U0439, Dawn   Clay   ,eunji90@YAHOO.COM,010.2829.4364,   male
+U0440,  Jerry    Lawson ,sugja82@daum.net,010.7743.1998,   F 
+U0441,James    Pierce,minsu82@yahoo.com,010-0565-8494,   M 
+U0442,Jeffrey  Torres  ,pi@gmail.com,010-565-6786, M
+U0443,Patrick    Diaz,jeonghun36@gmail.com,010-635-0226, FEMALE 
+U0444,Mrs.    Paige   Valentine,gimyeji@yahoo.com,010-728-1208,   male 
+U0445,  Carly    Alexander,jeonghoseo@gmail.com,010-696-4812,   F   
 U0446,  Michael    Mann   ,boram45@YAHOO.COM,010-8719-6802, FEMALE
-U0447,  Scott  Williams   ,rjeong@naver.com,010-353-8538,M
-U0448,Dawn    Morris   ,jinjeongsig@gmail.com,011-644-3574,Male 
+U0447,  Scott  Williams   ,rjeong@naver.com,010-353-8538,   M 
+U0448,Dawn    Morris   ,jinjeongsig@gmail.com,011-644-3574, Male 
 U0449, Andrea Gutierrez  ,yeongjin19@kakao.com,010-454-4440,M
-U0450,Karen   Parker   ,minjunim@daum.net,011-248-2713,M
-U0451,Tracy    Taylor ,seoyun70@KAKAO.COM,010-8245-0600,male
-U0452,Jonathan   Hudson,wbag@kakao.com,011-367-2010,Female
-U0453,Dawn  Mejia,seojunhwang@daum.net,010 0609 1450,F
-U0454,Heather   Knox  ,jieun56@daum.net,010.0360.5555,F
-U0455,Mary   Coleman,seongsugweon@yahoo.com,010 5302 7370,Female
-U0456, Ms.    Sarah   Kirk   ,yangjinho@KAKAO.COM,011-257-7854,Female
-U0457,Maria Butler,nyun@GMAIL.COM,010 6877 0447, female 
-U0458,Anna Holloway   ,xhong@yahoo.com,010.1706.5858,F
-U0459,Yvonne  Clark,phan@yahoo.com,010.4481.8607,male
+U0450,Karen   Parker   ,minjunim@daum.net,011-248-2713,M 
+U0451,Tracy    Taylor ,seoyun70@KAKAO.COM,010-8245-0600,  male   
+U0452,Jonathan   Hudson,wbag@kakao.com,011-367-2010,   Female
+U0453,Dawn  Mejia,seojunhwang@daum.net,010 0609 1450, F   
+U0454,Heather   Knox  ,jieun56@daum.net,010.0360.5555, F  
+U0455,Mary   Coleman,seongsugweon@yahoo.com,010 5302 7370,Female 
+U0456, Ms.    Sarah   Kirk   ,yangjinho@KAKAO.COM,011-257-7854,   Female   
+U0457,Maria Butler,nyun@GMAIL.COM,010 6877 0447,   female    
+U0458,Anna Holloway   ,xhong@yahoo.com,010.1706.5858,F 
+U0459,Yvonne  Clark,phan@yahoo.com,010.4481.8607, male
 U0460,Courtney  Miller,songsanghun@kakao.com,011-715-6211,MALE
-U0461,   Andrea    Thomas   ,yi@daum.net,010-5140-4204, female 
-U0462,  Charles Peck ,jeonghogim@yahoo.com,010.1811.6807,Female
+U0461,   Andrea    Thomas   ,yi@daum.net,010-5140-4204,    female    
+U0462,  Charles Peck ,jeonghogim@yahoo.com,010.1811.6807,Female   
 U0463,Ann    Jackson   ,sondoyun@yahoo.com,010-9182-8759,M
-U0464,Justin    Henderson,jaehyeon16@kakao.com,011-969-4327,M
-U0465,Lance Coleman,yunujin@YAHOO.COM,010-4563-3137, female 
+U0464,Justin    Henderson,jaehyeon16@kakao.com,011-969-4327,   M  
+U0465,Lance Coleman,yunujin@YAHOO.COM,010-4563-3137,   female 
 U0466,Nicole   Wall  ,yejin02@gmail.com,010 3730 2705, female 
-U0467,Amanda   Jones   ,hyeonjun14@DAUM.NET,010-3114-9643,Female
-U0468,Misty   Burch,yanghyejin@daum.net,010-9691-0545, female 
-U0469,Dakota   Gordon ,lgim@yahoo.com,010-972-9508,M
-U0470,Debra   Jarvis  ,minjae25@yahoo.com,010-2776-9459,male
+U0467,Amanda   Jones   ,hyeonjun14@DAUM.NET,010-3114-9643, Female  
+U0468,Misty   Burch,yanghyejin@daum.net,010-9691-0545,   female 
+U0469,Dakota   Gordon ,lgim@yahoo.com,010-972-9508, M
+U0470,Debra   Jarvis  ,minjae25@yahoo.com,010-2776-9459,male   
 U0471,Matthew   Davis,iyeongmi@naver.com,010 6289 2867,F
-U0472,  Eric    Horne,tgim@GMAIL.COM,010-601-5756, female 
-U0473,   Bradley   Ford,jiminhwang@YAHOO.COM,010-6423-3501,male
-U0474,Scott    Cook  ,gyeonghyijo@daum.net,010-188-7931,MALE
-U0475,  Kelly  Barnes,li@gmail.com,010-313-5534,male
-U0476,  Antonio Mack,ui@daum.net,010 3927 9871,male
+U0472,  Eric    Horne,tgim@GMAIL.COM,010-601-5756,    female 
+U0473,   Bradley   Ford,jiminhwang@YAHOO.COM,010-6423-3501,  male
+U0474,Scott    Cook  ,gyeonghyijo@daum.net,010-188-7931,MALE  
+U0475,  Kelly  Barnes,li@gmail.com,010-313-5534,male   
+U0476,  Antonio Mack,ui@daum.net,010 3927 9871, male
 U0477,   Daniel    Evans   ,yuhayun@kakao.com,010 4092 9286,F
-U0478,   Stephanie   Duffy,gimyeongjin@yahoo.com,010-606-1716,MALE
-U0479,   Desiree  White,seunghyeongim@YAHOO.COM,010-1160-8229,F
-U0480,Debra  Watkins  ,jiaseo@daum.net,011-810-1591,M
-U0481,Brooke   Underwood ,seonghun99@naver.com,010 9438 9065,Female
-U0482,Thomas Pierce,vgim@naver.com,010.5638.9470, female 
+U0478,   Stephanie   Duffy,gimyeongjin@yahoo.com,010-606-1716,MALE  
+U0479,   Desiree  White,seunghyeongim@YAHOO.COM,010-1160-8229,  F
+U0480,Debra  Watkins  ,jiaseo@daum.net,011-810-1591,   M
+U0481,Brooke   Underwood ,seonghun99@naver.com,010 9438 9065, Female
+U0482,Thomas Pierce,vgim@naver.com,010.5638.9470,   female 
 U0483,  Sergio  Powell ,ihyeonji@gmail.com,010.0311.5055,Male 
-U0484,   Kimberly   Davis ,subin90@yahoo.com,010-4186-9525,Female
+U0484,   Kimberly   Davis ,subin90@yahoo.com,010-4186-9525,Female   
 U0485,Theresa  Callahan,sunog28@naver.com,011-319-2362,male
-U0486,Stephanie Combs ,jeongja36@kakao.com,011-884-2280,MALE
-U0487,Erika Singh  ,jaehyeon87@naver.com,010-443-7053,Female
-U0488,Ashley  Mccarthy,simsugja@yahoo.com,011-152-5340, female 
+U0486,Stephanie Combs ,jeongja36@kakao.com,011-884-2280,   MALE
+U0487,Erika Singh  ,jaehyeon87@naver.com,010-443-7053,   Female
+U0488,Ashley  Mccarthy,simsugja@yahoo.com,011-152-5340,    female   
 U0489,Terry   Brown   ,minjun95@daum.net,011-500-7135,F
 U0490,James Reid  ,yeonghwanjang@yahoo.com,010 6513 2024,MALE
 U0491,Dana    Forbes   ,ogang@gmail.com,010 3384 7531,M
-U0492, Ana    Wright   ,myeongsugcoe@gmail.com,010 6259 4373,M
-U0493,Christopher    Mullins,ieunji@gmail.com,011-718-7297,F
-U0494,Tanya Richards,vi@kakao.com,010 5149 2510,M
-U0495,   Tina  Bishop,oogsun@naver.com,010-104-9841, female 
-U0496,Courtney    Patel   ,hyeonju12@kakao.com,010.2485.1793,M
-U0497, Justin Brewer ,jinuu@NAVER.COM,010-6675-2555,F
+U0492, Ana    Wright   ,myeongsugcoe@gmail.com,010 6259 4373,M  
+U0493,Christopher    Mullins,ieunji@gmail.com,011-718-7297,  F 
+U0494,Tanya Richards,vi@kakao.com,010 5149 2510,  M 
+U0495,   Tina  Bishop,oogsun@naver.com,010-104-9841,   female 
+U0496,Courtney    Patel   ,hyeonju12@kakao.com,010.2485.1793,   M
+U0497, Justin Brewer ,jinuu@NAVER.COM,010-6675-2555,F  
 U0498, Dwayne Santos  ,gyeongsu53@kakao.com,011-616-4994,Female
-U0499,   Michael   Dalton,bagyujin@gmail.com,010 6162 0957,M
+U0499,   Michael   Dalton,bagyujin@gmail.com,010 6162 0957,M 
 U0500,Dawn   Washington,gangjungsu@GMAIL.COM,010-214-1393,Female
-U0501,Matthew Mcmahon ,myun@GMAIL.COM,010-436-0127,Female
-U0502,Jerry    Robles,yujiu@GMAIL.COM,011-266-7769,F
-U0503,Matthew   Stewart,jeonghunbag@KAKAO.COM,010.2105.3189,Male 
+U0501,Matthew Mcmahon ,myun@GMAIL.COM,010-436-0127,Female  
+U0502,Jerry    Robles,yujiu@GMAIL.COM,011-266-7769,  F
+U0503,Matthew   Stewart,jeonghunbag@KAKAO.COM,010.2105.3189,  Male 
 U0504, Laura   Mitchell ,doyuni@yahoo.com,010.4016.7360, female 
-U0505,   Austin    Fuller,seojungim@kakao.com,010.1261.1094,M
-U0506,   David   Carter,jiyeonbae@DAUM.NET,010-0534-4535, FEMALE
+U0505,   Austin    Fuller,seojungim@kakao.com,010.1261.1094, M  
+U0506,   David   Carter,jiyeonbae@DAUM.NET,010-0534-4535, FEMALE   
 U0507,Matthew  Bennett,jeongja07@YAHOO.COM,010-7055-0601,male
-U0508,Melissa Martin,gimgyeongsug@kakao.com,010.4567.3590,Male 
-U0509,   Kevin   Kelly   ,jeongnam83@kakao.com,010.1541.5128,M
+U0508,Melissa Martin,gimgyeongsug@kakao.com,010.4567.3590,  Male 
+U0509,   Kevin   Kelly   ,jeongnam83@kakao.com,010.1541.5128,M 
 U0510,Bryan  Williams  ,ybag@NAVER.COM,010-558-3416, FEMALE
-U0511, Allen    Patterson,cgim@DAUM.NET,010-582-5422,MALE
+U0511, Allen    Patterson,cgim@DAUM.NET,010-582-5422,  MALE  
 U0512,   Thomas    Lopez ,hongsiu@gmail.com,011-093-4820,M
-U0513,  Yolanda    Perez ,ygim@gmail.com,010 2179 8476,male
-U0514,Jennifer    Hall ,gimhyejin@kakao.com,010.6589.5482,Male 
-U0515, Arthur    Moore,yejibag@daum.net,010-201-8639,Female
+U0513,  Yolanda    Perez ,ygim@gmail.com,010 2179 8476,   male
+U0514,Jennifer    Hall ,gimhyejin@kakao.com,010.6589.5482, Male    
+U0515, Arthur    Moore,yejibag@daum.net,010-201-8639,  Female 
 U0516,  Jacqueline Ramos,yeji46@gmail.com,011-105-1518, female 
-U0517,Glenn Reynolds  ,bagjongsu@yahoo.com,011-799-1749, FEMALE
-U0518, Trevor Carey   PhD,jgim@gmail.com,011-053-2845,F
-U0519,  Terry    Waller  ,jeongjai@GMAIL.COM,011-685-6391,Female
+U0517,Glenn Reynolds  ,bagjongsu@yahoo.com,011-799-1749, FEMALE  
+U0518, Trevor Carey   PhD,jgim@gmail.com,011-053-2845,F 
+U0519,  Terry    Waller  ,jeongjai@GMAIL.COM,011-685-6391, Female 
 U0520,   Ronald    Hayes,subin34@kakao.com,010 5733 8561,M
-U0521,Jacob  Sanders ,qhwang@yahoo.com,010-3177-6618,M
-U0522,Sheila    Faulkner,jiui@daum.net,010-7238-7645, FEMALE
-U0523,Diana  Evans,junyeonggim@kakao.com,011-054-8188,M
-U0524,   Stephanie   Rodriguez,eunjinam@naver.com,010 5994 9298,F
+U0521,Jacob  Sanders ,qhwang@yahoo.com,010-3177-6618,M  
+U0522,Sheila    Faulkner,jiui@daum.net,010-7238-7645, FEMALE 
+U0523,Diana  Evans,junyeonggim@kakao.com,011-054-8188,M   
+U0524,   Stephanie   Rodriguez,eunjinam@naver.com,010 5994 9298, F 
 U0525,Courtney    Page  ,jocunja@YAHOO.COM,010.3976.9688,MALE
 U0526,   Jennifer  Bradshaw,namjieun@gmail.com,010-713-8843,F
-U0527,Jonathon Anderson ,lgim@kakao.com,011-785-5969,Female
-U0528, Caitlin  Bryant,gangjiyeon@gmail.com,010-129-8580, FEMALE
-U0529,Timothy    Cannon,hgim@yahoo.com,010 0390 4999, FEMALE
-U0530, Ryan Clarke ,seongjin96@YAHOO.COM,010-484-1547,Female
+U0527,Jonathon Anderson ,lgim@kakao.com,011-785-5969,  Female 
+U0528, Caitlin  Bryant,gangjiyeon@gmail.com,010-129-8580,   FEMALE
+U0529,Timothy    Cannon,hgim@yahoo.com,010 0390 4999, FEMALE  
+U0530, Ryan Clarke ,seongjin96@YAHOO.COM,010-484-1547,Female   
 U0531,Keith  Sullivan,ibag@yahoo.com,010.0281.2268,F
-U0532,Kenneth  Flores   ,iseongho@yahoo.com,010.2841.0698,MALE
-U0533,Stephanie   Reid,bgim@naver.com,011-377-2549,Male 
-U0534, Marcus   Wagner,minhyeonu@KAKAO.COM,011-682-9927,MALE
+U0532,Kenneth  Flores   ,iseongho@yahoo.com,010.2841.0698, MALE
+U0533,Stephanie   Reid,bgim@naver.com,011-377-2549,  Male    
+U0534, Marcus   Wagner,minhyeonu@KAKAO.COM,011-682-9927,  MALE   
 U0535,  Alisha  Carr   ,rseong@YAHOO.COM,011-189-7224,M
-U0536,Ralph  Jordan  ,jeongung67@naver.com,010-2718-2038,Female
-U0537,Faith Cole,miyeong03@YAHOO.COM,011-629-7693,F
-U0538,Michael    Wade  ,jinugim@naver.com,010-0251-6356, FEMALE
-U0539,  Sandra    Martinez   ,bagseoyeong@KAKAO.COM,011-469-6741,male
-U0540, Danielle    Little   ,ljang@gmail.com,011-801-7753,F
-U0541,William  Martinez,minseo04@kakao.com,011-086-7525, female 
-U0542,Taylor    Lynn,gimhayun@naver.com,010-132-2062,male
-U0543,  Laura  Tyler   ,gimminsu@DAUM.NET,010-707-1682, female 
-U0544,Travis Gonzalez,seoyuni@YAHOO.COM,010.7557.4026,Male 
-U0545,Justin Neal,cbag@naver.com,011-617-7976, female 
-U0546,   Nancy Murphy,isubin@yahoo.com,010.1537.0513,Female
+U0536,Ralph  Jordan  ,jeongung67@naver.com,010-2718-2038,Female  
+U0537,Faith Cole,miyeong03@YAHOO.COM,011-629-7693,  F
+U0538,Michael    Wade  ,jinugim@naver.com,010-0251-6356,  FEMALE 
+U0539,  Sandra    Martinez   ,bagseoyeong@KAKAO.COM,011-469-6741,   male
+U0540, Danielle    Little   ,ljang@gmail.com,011-801-7753,   F
+U0541,William  Martinez,minseo04@kakao.com,011-086-7525,  female   
+U0542,Taylor    Lynn,gimhayun@naver.com,010-132-2062,male   
+U0543,  Laura  Tyler   ,gimminsu@DAUM.NET,010-707-1682,    female  
+U0544,Travis Gonzalez,seoyuni@YAHOO.COM,010.7557.4026,Male   
+U0545,Justin Neal,cbag@naver.com,011-617-7976,  female  
+U0546,   Nancy Murphy,isubin@yahoo.com,010.1537.0513,Female  
 U0547,Phillip Colon   ,lgim@kakao.com,010 2429 9524,Female
-U0548,  Kenneth  Flores ,nyun@NAVER.COM,011-976-7439,Male 
-U0549,Alexandra  Andrews,mi@GMAIL.COM,010-9698-7557,Male 
-U0550,Robert King,haeuni@kakao.com,010-3451-2912,Female
-U0551,Glenn  Walters,junho01@naver.com,010.6226.5519,Female
+U0548,  Kenneth  Flores ,nyun@NAVER.COM,011-976-7439,Male    
+U0549,Alexandra  Andrews,mi@GMAIL.COM,010-9698-7557,  Male 
+U0550,Robert King,haeuni@kakao.com,010-3451-2912,   Female 
+U0551,Glenn  Walters,junho01@naver.com,010.6226.5519,Female  
 U0552,John    Miller,gyeongsug86@NAVER.COM,010 3645 3015,Female
-U0553,   Christina   Harvey,seoyeoncoe@yahoo.com,010-734-5351,F
-U0554,   Casey   Salas,acoe@gmail.com,010.8988.3678,Female
-U0555,   Felicia    Watson  ,eunyeongi@kakao.com,010-6392-1190,male
-U0556,  David  Williamson ,jiyeong83@kakao.com,010-7231-6723,F
-U0557,   Jennifer  Adams,ui@kakao.com,010 3574 9083, female 
-U0558, Steve    Sampson  ,hsim@KAKAO.COM,011-299-4705,male
-U0559,   Tiffany  Huffman,areum56@yahoo.com,010.2605.6163,M
+U0553,   Christina   Harvey,seoyeoncoe@yahoo.com,010-734-5351, F  
+U0554,   Casey   Salas,acoe@gmail.com,010.8988.3678,   Female 
+U0555,   Felicia    Watson  ,eunyeongi@kakao.com,010-6392-1190,male   
+U0556,  David  Williamson ,jiyeong83@kakao.com,010-7231-6723,F  
+U0557,   Jennifer  Adams,ui@kakao.com,010 3574 9083,  female   
+U0558, Steve    Sampson  ,hsim@KAKAO.COM,011-299-4705,   male
+U0559,   Tiffany  Huffman,areum56@yahoo.com,010.2605.6163,  M 
 U0560,  Manuel   Reed,yeongsigcoe@gmail.com,010-1639-1752, female 
-U0561,   Hannah    Barker,seojunheo@kakao.com,010.6840.1330, female 
+U0561,   Hannah    Barker,seojunheo@kakao.com,010.6840.1330, female    
 U0562,   Wendy  Hart   ,hyeonuno@GMAIL.COM,010 8550 7554, FEMALE
-U0563,Sean Hughes,doyunca@kakao.com,010-5755-8712,Female
+U0563,Sean Hughes,doyunca@kakao.com,010-5755-8712,   Female   
 U0564,David Figueroa,ugim@NAVER.COM,010-090-5495,Male 
-U0565,   Kent Anderson   ,jimin13@NAVER.COM,010-520-8222,Female
-U0566,   Steven  Thompson ,qseo@KAKAO.COM,010 3437 9465,M
-U0567,Dawn    Blair   ,sunjagim@NAVER.COM,010.1311.6421, FEMALE
-U0568,   Alicia    Wallace,seoyeong76@kakao.com,010-622-1903,Female
+U0565,   Kent Anderson   ,jimin13@NAVER.COM,010-520-8222,Female   
+U0566,   Steven  Thompson ,qseo@KAKAO.COM,010 3437 9465,M 
+U0567,Dawn    Blair   ,sunjagim@NAVER.COM,010.1311.6421,    FEMALE  
+U0568,   Alicia    Wallace,seoyeong76@kakao.com,010-622-1903,Female 
 U0569,   Richard   Hill,jeongsun92@kakao.com,010-514-6773,F
-U0570, Sarah  Ford,jihun38@daum.net,010-060-2280,F
-U0571,   Samantha  Smith  ,ycoe@DAUM.NET,010-108-0961,MALE
-U0572,Shane   Strong  ,minjaei@KAKAO.COM,011-532-0830,F
-U0573,Kaylee    Mcclain,songminji@gmail.com,011-089-0215,Male 
-U0574, Katherine  Reeves,jeongsu01@yahoo.com,010.5751.0972,Male 
-U0575,  Casey Hunt  ,sanghyeon60@daum.net,010-137-2514, female 
-U0576,Kevin Chandler,yeonghojeong@DAUM.NET,010 2913 9148,Female
-U0577,  Nicholas Griffin,gimjiweon@kakao.com,010.9660.8034,MALE
+U0570, Sarah  Ford,jihun38@daum.net,010-060-2280, F
+U0571,   Samantha  Smith  ,ycoe@DAUM.NET,010-108-0961,MALE   
+U0572,Shane   Strong  ,minjaei@KAKAO.COM,011-532-0830, F 
+U0573,Kaylee    Mcclain,songminji@gmail.com,011-089-0215,  Male 
+U0574, Katherine  Reeves,jeongsu01@yahoo.com,010.5751.0972,  Male 
+U0575,  Casey Hunt  ,sanghyeon60@daum.net,010-137-2514,    female   
+U0576,Kevin Chandler,yeonghojeong@DAUM.NET,010 2913 9148, Female
+U0577,  Nicholas Griffin,gimjiweon@kakao.com,010.9660.8034,   MALE 
 U0578,Scott   Hoffman,gyeongja42@yahoo.com,010 2726 6955,M
 U0579,Tonya Scott,yeeunyun@kakao.com,011-894-3269,MALE
 U0580,   Stacy  Mcdonald,minji70@gmail.com,010 8874 9901,male
-U0581, Evan    Pham,ygim@gmail.com,011-587-4047,male
+U0581, Evan    Pham,ygim@gmail.com,011-587-4047,  male
 U0582,Amber   Cowan,yeonghwan19@yahoo.com,010-6660-7828,Male 
 U0583,  Bryan Ballard ,ihayun@naver.com,010-5486-2863,Male 
-U0584,Kimberly  Taylor,jongsugim@KAKAO.COM,010.0173.3122, FEMALE
-U0585,Paula    Schneider   ,sangceol06@GMAIL.COM,010-284-0561,MALE
-U0586,Chad  Lewis,ni@DAUM.NET,010-398-6086,MALE
-U0587,   Michelle   Fox   ,seojunryu@KAKAO.COM,010-637-2758, female 
-U0588,David Brown,gimyeji@NAVER.COM,010 5119 3151,M
+U0584,Kimberly  Taylor,jongsugim@KAKAO.COM,010.0173.3122, FEMALE 
+U0585,Paula    Schneider   ,sangceol06@GMAIL.COM,010-284-0561,MALE  
+U0586,Chad  Lewis,ni@DAUM.NET,010-398-6086,   MALE
+U0587,   Michelle   Fox   ,seojunryu@KAKAO.COM,010-637-2758,    female  
+U0588,David Brown,gimyeji@NAVER.COM,010 5119 3151,  M
 U0589, Derek Santos,rhan@naver.com,011-770-6802,male
 U0590,Wendy   Miller,ko@naver.com,010-477-9124,male
-U0591,Michael    Spencer   ,seongseongmin@GMAIL.COM,010-268-2147,M
-U0592,John   Nguyen ,yunseogim@DAUM.NET,011-241-9715, FEMALE
-U0593,John   Williamson ,bagjeongung@daum.net,011-577-4786,Female
-U0594,   Louis    Taylor ,coegyeongsug@GMAIL.COM,010-1437-9356,Male 
+U0591,Michael    Spencer   ,seongseongmin@GMAIL.COM,010-268-2147,  M
+U0592,John   Nguyen ,yunseogim@DAUM.NET,011-241-9715,    FEMALE
+U0593,John   Williamson ,bagjeongung@daum.net,011-577-4786,   Female
+U0594,   Louis    Taylor ,coegyeongsug@GMAIL.COM,010-1437-9356, Male  
 U0595, Aimee Butler   ,seongmin06@naver.com,011-479-8875,MALE
-U0596,Joel  Olson ,gangminjun@naver.com,010.7536.1689, FEMALE
-U0597,  Maureen Mason  ,xgim@kakao.com,010 0417 3550, FEMALE
-U0598, Daniel Rodriguez   ,imisug@yahoo.com,010.1765.6477,Female
-U0599, Shannon    Kennedy ,minseoseo@yahoo.com,010-1274-1045, FEMALE
-U0600,Ruben   Ellis  ,sunog35@daum.net,010-146-6572,Male 
-U0601,Stephanie    Williams,jeongsun39@gmail.com,010 7527 0129,Male 
+U0596,Joel  Olson ,gangminjun@naver.com,010.7536.1689,  FEMALE   
+U0597,  Maureen Mason  ,xgim@kakao.com,010 0417 3550,    FEMALE
+U0598, Daniel Rodriguez   ,imisug@yahoo.com,010.1765.6477,Female   
+U0599, Shannon    Kennedy ,minseoseo@yahoo.com,010-1274-1045, FEMALE   
+U0600,Ruben   Ellis  ,sunog35@daum.net,010-146-6572,   Male    
+U0601,Stephanie    Williams,jeongsun39@gmail.com,010 7527 0129,   Male    
 U0602,David  Ortiz  ,bi@gmail.com,011-340-5056, FEMALE
-U0603,  Brad  Valdez ,jeongsugim@DAUM.NET,010.4290.6959, female 
-U0604,  Sarah Rubio  ,si@yahoo.com,010.6829.1130, FEMALE
-U0605, Rachel Lindsey   MD,bagminjae@yahoo.com,010 1829 6698,Male 
-U0606,Melissa    Kelly ,rhong@naver.com,010-7306-3303,F
+U0603,  Brad  Valdez ,jeongsugim@DAUM.NET,010.4290.6959,    female  
+U0604,  Sarah Rubio  ,si@yahoo.com,010.6829.1130,    FEMALE
+U0605, Rachel Lindsey   MD,bagminjae@yahoo.com,010 1829 6698, Male 
+U0606,Melissa    Kelly ,rhong@naver.com,010-7306-3303,   F   
 U0607,  Krystal  Young   ,jimini@yahoo.com,010-738-7934, female 
-U0608,Patrick    Fernandez  ,seongho77@DAUM.NET,010 4346 3771,MALE
-U0609,Sarah    Allen,sujingim@KAKAO.COM,010-823-7846, female 
-U0610,   Cynthia  Jones,tjeong@KAKAO.COM,010-625-3525, female 
-U0611, Michael  Thomas,hyejin18@naver.com,010 5052 8873,Female
-U0612,   Zachary   Mcmillan,minyeongsig@NAVER.COM,010.6254.2927, female 
-U0613,  Tara  Johnson,seonghyeonca@gmail.com,010 0142 3307,F
-U0614,   Dustin    Brock   ,tmun@NAVER.COM,010 8804 2366,MALE
-U0615,Elizabeth  Rodgers,migyeongi@daum.net,010-4296-2951,male
-U0616,Christopher    Mcclure  ,vgweon@NAVER.COM,011-630-4334, female 
-U0617,Mr. Jerome    Webb  ,sanghunbag@NAVER.COM,010 8925 6776, FEMALE
+U0608,Patrick    Fernandez  ,seongho77@DAUM.NET,010 4346 3771, MALE
+U0609,Sarah    Allen,sujingim@KAKAO.COM,010-823-7846, female  
+U0610,   Cynthia  Jones,tjeong@KAKAO.COM,010-625-3525, female   
+U0611, Michael  Thomas,hyejin18@naver.com,010 5052 8873, Female 
+U0612,   Zachary   Mcmillan,minyeongsig@NAVER.COM,010.6254.2927,    female   
+U0613,  Tara  Johnson,seonghyeonca@gmail.com,010 0142 3307,F  
+U0614,   Dustin    Brock   ,tmun@NAVER.COM,010 8804 2366,MALE 
+U0615,Elizabeth  Rodgers,migyeongi@daum.net,010-4296-2951,  male 
+U0616,Christopher    Mcclure  ,vgweon@NAVER.COM,011-630-4334,   female 
+U0617,Mr. Jerome    Webb  ,sanghunbag@NAVER.COM,010 8925 6776, FEMALE 
 U0618, Stephanie  Love,gimcunja@yahoo.com,010 7310 0912, female 
-U0619,   Shelly    Murphy  ,junhyeog86@NAVER.COM,011-140-8617, FEMALE
-U0620,Danielle    Dominguez,gweonsangho@yahoo.com,010.8806.3162,male
-U0621,Nicholas   Pearson,jeongsig88@KAKAO.COM,010 5884 6848,M
+U0619,   Shelly    Murphy  ,junhyeog86@NAVER.COM,011-140-8617, FEMALE 
+U0620,Danielle    Dominguez,gweonsangho@yahoo.com,010.8806.3162,   male  
+U0621,Nicholas   Pearson,jeongsig88@KAKAO.COM,010 5884 6848, M
 U0622, Faith Cooper,geonu54@daum.net,010-1384-5373,male
-U0623,   Nicole   Henderson   ,yeongho33@KAKAO.COM,010 7822 9327,MALE
-U0624,Michael    Cummings  ,agim@naver.com,010.3280.0727,MALE
-U0625,  Todd Herring   ,jungsuyun@yahoo.com,011-788-2835, FEMALE
-U0626,  Alexis  Allen   ,ryujeonghun@gmail.com,011-977-4502,F
-U0627, Casey  Hart  ,hyeonjibag@yahoo.com,010 4792 9365,MALE
-U0628,Robert    Kramer   ,jeongnam10@daum.net,010-436-1904,male
-U0629,  Mark  Morton ,seoyeongcoe@daum.net,010.2657.3336,MALE
-U0630, Terri    Holloway   ,ti@DAUM.NET,011-041-5751,F
-U0631,  Chelsea    Kent   ,eungyeonggim@daum.net,011-956-6721,Female
-U0632,Ronald Powell MD,junhosong@daum.net,011-754-6059,F
-U0633,Karen  Smith,yejini@naver.com,010.8402.8315,male
-U0634,Cynthia  Johnson  ,bagyejin@YAHOO.COM,011-467-6003,Female
+U0623,   Nicole   Henderson   ,yeongho33@KAKAO.COM,010 7822 9327,  MALE  
+U0624,Michael    Cummings  ,agim@naver.com,010.3280.0727,   MALE
+U0625,  Todd Herring   ,jungsuyun@yahoo.com,011-788-2835,  FEMALE
+U0626,  Alexis  Allen   ,ryujeonghun@gmail.com,011-977-4502,  F
+U0627, Casey  Hart  ,hyeonjibag@yahoo.com,010 4792 9365,MALE  
+U0628,Robert    Kramer   ,jeongnam10@daum.net,010-436-1904,   male   
+U0629,  Mark  Morton ,seoyeongcoe@daum.net,010.2657.3336,  MALE
+U0630, Terri    Holloway   ,ti@DAUM.NET,011-041-5751,F   
+U0631,  Chelsea    Kent   ,eungyeonggim@daum.net,011-956-6721,Female 
+U0632,Ronald Powell MD,junhosong@daum.net,011-754-6059,  F
+U0633,Karen  Smith,yejini@naver.com,010.8402.8315, male   
+U0634,Cynthia  Johnson  ,bagyejin@YAHOO.COM,011-467-6003, Female 
 U0635,  Sandy    Fuentes,hyeonju33@kakao.com,010-9047-4000, female 
-U0636,Dan  Patterson ,yeongsun85@KAKAO.COM,010 5552 3051,Female
-U0637,  Tara  Zuniga   ,agim@daum.net,011-044-1591, female 
+U0636,Dan  Patterson ,yeongsun85@KAKAO.COM,010 5552 3051,Female   
+U0637,  Tara  Zuniga   ,agim@daum.net,011-044-1591,    female   
 U0638,   Chad  Henderson,gyeongsu06@naver.com,010-846-0693,MALE
-U0639,Tracy Williams,mijeong56@yahoo.com,010-301-2167, female 
-U0640, Sharon  Aguilar  ,minseog70@YAHOO.COM,010 1933 0849, FEMALE
-U0641,Helen    Palmer,yeongsig20@naver.com,010 2277 5081,male
-U0642,Amanda    Roberson,yeweongang@YAHOO.COM,011-744-5265,F
+U0639,Tracy Williams,mijeong56@yahoo.com,010-301-2167,   female 
+U0640, Sharon  Aguilar  ,minseog70@YAHOO.COM,010 1933 0849, FEMALE   
+U0641,Helen    Palmer,yeongsig20@naver.com,010 2277 5081, male   
+U0642,Amanda    Roberson,yeweongang@YAHOO.COM,011-744-5265,  F
 U0643,  Douglas   Rowe,yunseo48@KAKAO.COM,010-5277-0964,M
-U0644,Jennifer   Vega,doyunyun@gmail.com,010-143-1063,Female
-U0645, Michael  Cruz ,xu@kakao.com,011-957-3508,male
+U0644,Jennifer   Vega,doyunyun@gmail.com,010-143-1063,Female  
+U0645, Michael  Cruz ,xu@kakao.com,011-957-3508,   male
 U0646,Rachel   Smith,gimeunseo@daum.net,011-353-9202, FEMALE
 U0647,John    Levine,wcoe@daum.net,010-4644-4520, FEMALE
-U0648,   Brenda    Pineda,hyeonji52@gmail.com,010 9152 0676,MALE
-U0649,Richard  Burton ,sanghyeongo@gmail.com,010 6936 2033,MALE
-U0650,  Shannon  Hanson,yhwang@naver.com,011-034-5409,F
-U0651,Richard   Coleman ,seohyeoni@naver.com,010-9316-6802,Male 
-U0652,Christopher    Davis,ui@daum.net,010.7950.1851,Female
+U0648,   Brenda    Pineda,hyeonji52@gmail.com,010 9152 0676,   MALE
+U0649,Richard  Burton ,sanghyeongo@gmail.com,010 6936 2033,MALE   
+U0650,  Shannon  Hanson,yhwang@naver.com,011-034-5409,   F
+U0651,Richard   Coleman ,seohyeoni@naver.com,010-9316-6802, Male   
+U0652,Christopher    Davis,ui@daum.net,010.7950.1851,   Female   
 U0653,  James    Figueroa  ,gimcunja@YAHOO.COM,010.9050.2785,F
 U0654,   Lawrence    Kennedy ,jaehojeong@yahoo.com,011-212-8797,Female
-U0655, Colton   Brady,jungsuna@kakao.com,010.4937.1512, female 
+U0655, Colton   Brady,jungsuna@kakao.com,010.4937.1512,  female 
 U0656,Stephen  Velasquez,mijeongcoe@KAKAO.COM,010-909-2664,Female
-U0657,Nancy    Wilson ,hansunog@kakao.com,011-740-7550,Male 
-U0658,Taylor   Small,haeungim@GMAIL.COM,010-5221-1995, FEMALE
+U0657,Nancy    Wilson ,hansunog@kakao.com,011-740-7550,  Male  
+U0658,Taylor   Small,haeungim@GMAIL.COM,010-5221-1995,    FEMALE  
 U0659,Michael   Munoz,thwang@YAHOO.COM,010 7029 8144,Female
 U0660,Martin    Gonzales,hyeonu66@KAKAO.COM,011-914-4376,F
-U0661,Kevin Gray,yeongsig84@yahoo.com,011-698-3621, FEMALE
-U0662, Donna  Gillespie  ,minseog69@daum.net,011-414-1034,male
+U0661,Kevin Gray,yeongsig84@yahoo.com,011-698-3621,   FEMALE 
+U0662, Donna  Gillespie  ,minseog69@daum.net,011-414-1034,  male  
 U0663, Tonya Robertson,ihyeonsug@daum.net,010-778-7266, FEMALE
-U0664,   Joseph  Bell,ybag@gmail.com,010.7120.6439,M
-U0665,Andre   Hall,so@NAVER.COM,010.5845.3068, female 
+U0664,   Joseph  Bell,ybag@gmail.com,010.7120.6439,M  
+U0665,Andre   Hall,so@NAVER.COM,010.5845.3068,    female  
 U0666, Tanya    Smith,si@kakao.com,010-835-5672, female 
-U0667,Stacy  Carson,jinu53@KAKAO.COM,010-806-1209,male
+U0667,Stacy  Carson,jinu53@KAKAO.COM,010-806-1209,male  
 U0668,William   King   ,yi@YAHOO.COM,010 5864 9992,male
-U0669,  Sean   Zhang,gimyejun@gmail.com,011-822-0421,Male 
-U0670,  Matthew Nielsen,isumin@daum.net,011-801-3815,male
-U0671,Shannon   Arnold ,gwangsui@gmail.com,010-192-1198,MALE
-U0672,  Dennis  Miller,zcoe@kakao.com,011-297-3880,MALE
-U0673,   Jessica    Romero,mgim@KAKAO.COM,010-051-4438,Male 
-U0674, Marcus    Garcia,baejaehyeon@GMAIL.COM,010 3429 8317,Female
+U0669,  Sean   Zhang,gimyejun@gmail.com,011-822-0421,  Male 
+U0670,  Matthew Nielsen,isumin@daum.net,011-801-3815,  male
+U0671,Shannon   Arnold ,gwangsui@gmail.com,010-192-1198,MALE   
+U0672,  Dennis  Miller,zcoe@kakao.com,011-297-3880,   MALE
+U0673,   Jessica    Romero,mgim@KAKAO.COM,010-051-4438,   Male 
+U0674, Marcus    Garcia,baejaehyeon@GMAIL.COM,010 3429 8317, Female
 U0675,   Joann Hooper  ,rgo@YAHOO.COM,011-899-5692,MALE
-U0676,Edwin    Gibson ,mijeong23@yahoo.com,010-363-9499, FEMALE
-U0677,Edgar Williams   ,dgim@daum.net,010 6667 0850,Male 
-U0678,Michelle   Cross,jeonsunog@kakao.com,011-166-9039, FEMALE
+U0676,Edwin    Gibson ,mijeong23@yahoo.com,010-363-9499,   FEMALE  
+U0677,Edgar Williams   ,dgim@daum.net,010 6667 0850, Male    
+U0678,Michelle   Cross,jeonsunog@kakao.com,011-166-9039, FEMALE   
 U0679,  Jennifer    Reyes,dgim@GMAIL.COM,010-0815-1384,MALE
-U0680,  Noah    Colon   ,myeongsuggang@daum.net,010-8922-0450,MALE
-U0681,Kelly  Hall  ,coegyeongja@naver.com,010.3421.9811,Female
-U0682,   Daniel Bray,jinhoi@yahoo.com,010-410-7720, female 
-U0683, Michael    Calderon ,gimyejun@gmail.com,010.0912.7398,Female
+U0680,  Noah    Colon   ,myeongsuggang@daum.net,010-8922-0450, MALE
+U0681,Kelly  Hall  ,coegyeongja@naver.com,010.3421.9811,  Female
+U0682,   Daniel Bray,jinhoi@yahoo.com,010-410-7720, female    
+U0683, Michael    Calderon ,gimyejun@gmail.com,010.0912.7398,   Female
 U0684,   Andrea    Lee,vgim@naver.com,010-084-5270,M
-U0685,  Linda   Chan  ,igyeongsug@yahoo.com,010 9163 3677,M
-U0686,   Sara   Ballard,ujeong@daum.net,010-714-8054, FEMALE
-U0687,   Cynthia  Edwards   ,bagjinu@gmail.com,011-699-6923,Male 
+U0685,  Linda   Chan  ,igyeongsug@yahoo.com,010 9163 3677, M
+U0686,   Sara   Ballard,ujeong@daum.net,010-714-8054,   FEMALE
+U0687,   Cynthia  Edwards   ,bagjinu@gmail.com,011-699-6923,   Male 
 U0688, Megan  Morrison,junhoi@daum.net,010.5606.6740,male
-U0689, Valerie Robbins ,icoe@GMAIL.COM,010 1978 4519,Female
-U0690,   Jessica    Page ,seunghyeon36@kakao.com,010-347-9798,M
+U0689, Valerie Robbins ,icoe@GMAIL.COM,010 1978 4519,   Female
+U0690,   Jessica    Page ,seunghyeon36@kakao.com,010-347-9798,M  
 U0691,Jessica    Mclaughlin ,jinhaeun@kakao.com,010-1022-9177, FEMALE
-U0692, Joann    Roberts  ,eunji77@kakao.com,010 9699 8035,F
-U0693, Joseph   West,seonghyeoni@kakao.com,010 3202 1334,Male 
-U0694,   Jonathan  Johnson   ,eunseo67@naver.com,011-386-4751,F
-U0695,   Daniel  Sexton   ,gimjihun@naver.com,011-313-2811,Female
+U0692, Joann    Roberts  ,eunji77@kakao.com,010 9699 8035, F
+U0693, Joseph   West,seonghyeoni@kakao.com,010 3202 1334, Male 
+U0694,   Jonathan  Johnson   ,eunseo67@naver.com,011-386-4751,   F  
+U0695,   Daniel  Sexton   ,gimjihun@naver.com,011-313-2811,Female  
 U0696,Randy  Rodgers,gimsubin@kakao.com,011-420-1046,M
-U0697,Dakota    Foster ,yeongil74@daum.net,010 6159 7482,male
+U0697,Dakota    Foster ,yeongil74@daum.net,010 6159 7482,male   
 U0698,Amy  Garcia,igim@yahoo.com,010 4170 9731,Male 
-U0699,  Amy    Quinn ,jeongung25@NAVER.COM,011-006-1039,Male 
-U0700, Edward  Cooper   ,siu83@naver.com,010.4065.7733,MALE
-U0701,Michael   Hall,minji99@KAKAO.COM,011-204-2731,Female
-U0702,   Jeffrey   Cruz,ccoe@gmail.com,010 1780 4383,male
-U0703, Rachel    Phelps,sgim@DAUM.NET,010 6372 8253,M
-U0704, Lisa  Barnett   ,seongsubag@naver.com,010.4621.2024,Male 
-U0705,Clinton Jackson,geonu63@kakao.com,010.1052.1032, female 
+U0699,  Amy    Quinn ,jeongung25@NAVER.COM,011-006-1039,Male    
+U0700, Edward  Cooper   ,siu83@naver.com,010.4065.7733, MALE 
+U0701,Michael   Hall,minji99@KAKAO.COM,011-204-2731,  Female  
+U0702,   Jeffrey   Cruz,ccoe@gmail.com,010 1780 4383,male   
+U0703, Rachel    Phelps,sgim@DAUM.NET,010 6372 8253,M  
+U0704, Lisa  Barnett   ,seongsubag@naver.com,010.4621.2024,Male  
+U0705,Clinton Jackson,geonu63@kakao.com,010.1052.1032,  female    
 U0706,Charles   Barber   ,osin@naver.com,010-0485-4408,Female
 U0707,   Stephanie    West  ,gryu@KAKAO.COM,010-367-1390,Female
 U0708, Scott Schneider ,seoyeongim@yahoo.com,010-4853-9175,Male 
-U0709,Gary Williams,jeongsun30@daum.net,011-575-2139,male
-U0710,Diane    Howard,rbag@KAKAO.COM,011-026-5828, FEMALE
-U0711,   Mr.    Thomas    Davenport    DVM,seongho03@NAVER.COM,010 1144 7010,M
+U0709,Gary Williams,jeongsun30@daum.net,011-575-2139, male 
+U0710,Diane    Howard,rbag@KAKAO.COM,011-026-5828,   FEMALE
+U0711,   Mr.    Thomas    Davenport    DVM,seongho03@NAVER.COM,010 1144 7010,M   
 U0712,  Heather  Cooper ,jeongsunbae@gmail.com,010.1299.8816,male
 U0713,Haley  Adams   ,ji@naver.com,010-8624-8512,male
 U0714,  Michael Carter,ygim@kakao.com,010.2669.9648,male
 U0715, Pamela  Perez,caeweongim@kakao.com,011-325-7054,Female
 U0716,   Gina Jacobs   ,ecoe@naver.com,010.8979.2747, FEMALE
-U0717,   Robert  Brown ,yeongilgim@yahoo.com,010 9668 1518, female 
-U0718,Mr.  Gerald    Willis,bagbyeongceol@daum.net,010.0009.3268,M
-U0719, Patrick   Weaver,gi@NAVER.COM,010-929-6123,M
-U0720,Christopher   Lopez ,fbag@naver.com,010 9970 8993,Female
-U0721,Sandra   Mcbride ,iseongmin@yahoo.com,010.2911.0939, female 
-U0722,   Dr.   Shawn Carr  ,gimjeongnam@daum.net,010.1758.1025,MALE
-U0723,  Mark  Rice,yeongsugi@KAKAO.COM,011-782-0629, FEMALE
-U0724,   Laurie Lee ,ebag@yahoo.com,010-5860-1035,F
+U0717,   Robert  Brown ,yeongilgim@yahoo.com,010 9668 1518,    female    
+U0718,Mr.  Gerald    Willis,bagbyeongceol@daum.net,010.0009.3268,M   
+U0719, Patrick   Weaver,gi@NAVER.COM,010-929-6123,  M
+U0720,Christopher   Lopez ,fbag@naver.com,010 9970 8993,   Female   
+U0721,Sandra   Mcbride ,iseongmin@yahoo.com,010.2911.0939,    female  
+U0722,   Dr.   Shawn Carr  ,gimjeongnam@daum.net,010.1758.1025,   MALE   
+U0723,  Mark  Rice,yeongsugi@KAKAO.COM,011-782-0629,   FEMALE
+U0724,   Laurie Lee ,ebag@yahoo.com,010-5860-1035, F 
 U0725,  Christine  Myers ,eunjeong72@DAUM.NET,010-548-6817, female 
-U0726,Danielle  Mendoza,yeweonjeong@daum.net,010.8765.1289,MALE
-U0727, Anthony    Bennett   ,doyungim@NAVER.COM,010-9715-9025,Male 
-U0728, Whitney   Doyle,dohyeoni@DAUM.NET,010-0528-3060, female 
-U0729,Amber Jacobs,sanghyeoni@YAHOO.COM,010-503-4224, female 
+U0726,Danielle  Mendoza,yeweonjeong@daum.net,010.8765.1289,  MALE
+U0727, Anthony    Bennett   ,doyungim@NAVER.COM,010-9715-9025,Male  
+U0728, Whitney   Doyle,dohyeoni@DAUM.NET,010-0528-3060, female   
+U0729,Amber Jacobs,sanghyeoni@YAHOO.COM,010-503-4224,  female 
 U0730,   Richard  May,seungmingo@kakao.com,010-0633-8440,male
-U0731,  Bradley    Fritz,songseongmin@DAUM.NET,010-9754-3162,Female
-U0732,   Jonathan   Stevens  ,gyeonghyihwang@gmail.com,011-003-3703, FEMALE
-U0733,  Michelle  Greer,eunjijang@daum.net,010.7643.6434,Male 
-U0734,   Karen  Quinn,seojeongung@GMAIL.COM,011-233-9403, FEMALE
-U0735,Hayley  Hogan,iseunghyeon@kakao.com,010-9292-8533,M
+U0731,  Bradley    Fritz,songseongmin@DAUM.NET,010-9754-3162,  Female  
+U0732,   Jonathan   Stevens  ,gyeonghyihwang@gmail.com,011-003-3703,    FEMALE
+U0733,  Michelle  Greer,eunjijang@daum.net,010.7643.6434,Male   
+U0734,   Karen  Quinn,seojeongung@GMAIL.COM,011-233-9403,    FEMALE 
+U0735,Hayley  Hogan,iseunghyeon@kakao.com,010-9292-8533,M 
 U0736,  Leslie  Smith   ,ijeonghyi@GMAIL.COM,010.8871.5714,Male 
-U0737,Shawn   Gonzalez,hanjeongnam@gmail.com,010 2267 3373,M
+U0737,Shawn   Gonzalez,hanjeongnam@gmail.com,010 2267 3373,   M
 U0738,Michael Glenn   ,yunjeongsun@gmail.com,010 7084 9196, FEMALE
-U0739,Kelly    Hoffman,donghyeongim@naver.com,011-156-9386,M
+U0739,Kelly    Hoffman,donghyeongim@naver.com,011-156-9386,  M 
 U0740, Karen Porter ,ni@YAHOO.COM,010-128-2472, FEMALE
-U0741,Lisa  Walker ,sujino@kakao.com,010 8746 3985,Male 
-U0742,Jeffrey    Sharp   ,yeongsun76@kakao.com,010.5858.9098,F
-U0743,Charles Larson,caeweongim@GMAIL.COM,010-2953-9095, FEMALE
-U0744,   Jordan    Morse   ,jaehogang@gmail.com,010-7294-1867,Male 
-U0745,  David  Frye,jaehyeoncoe@NAVER.COM,011-726-1314,F
-U0746,Ronald    Johnson,ehan@kakao.com,010.5048.6638,Male 
-U0747, Michael   Wallace ,obag@yahoo.com,011-284-5154,Female
+U0741,Lisa  Walker ,sujino@kakao.com,010 8746 3985,   Male  
+U0742,Jeffrey    Sharp   ,yeongsun76@kakao.com,010.5858.9098, F 
+U0743,Charles Larson,caeweongim@GMAIL.COM,010-2953-9095,    FEMALE
+U0744,   Jordan    Morse   ,jaehogang@gmail.com,010-7294-1867,   Male   
+U0745,  David  Frye,jaehyeoncoe@NAVER.COM,011-726-1314, F
+U0746,Ronald    Johnson,ehan@kakao.com,010.5048.6638,Male   
+U0747, Michael   Wallace ,obag@yahoo.com,011-284-5154,   Female
 U0748, Kevin  Young III  ,qbag@DAUM.NET,010 5210 8193,M
-U0749,  Amy    Young,minji61@naver.com,010-8323-6140,Male 
+U0749,  Amy    Young,minji61@naver.com,010-8323-6140,Male  
 U0750,  Nicole  Moses ,shong@GMAIL.COM,010-447-6633,Male 
-U0751,   Anne Parks   ,minseog16@KAKAO.COM,011-929-7009,M
+U0751,   Anne Parks   ,minseog16@KAKAO.COM,011-929-7009,  M   
 U0752,  Gene Hall   ,hyeonjeong54@daum.net,010-845-7754,MALE
-U0753,Christopher  Williams ,hgim@naver.com,010 2359 7699,M
-U0754, Phillip   Long  ,iyeonghwan@YAHOO.COM,010 6187 9517,MALE
+U0753,Christopher  Williams ,hgim@naver.com,010 2359 7699,M  
+U0754, Phillip   Long  ,iyeonghwan@YAHOO.COM,010 6187 9517,  MALE
 U0755,Donald    Nunez,sangho36@gmail.com,010-051-0960,Female
-U0756, Eric Baird ,ngim@GMAIL.COM,011-512-3030,Male 
-U0757,  Carrie  Smith   ,haeun94@gmail.com,010-1652-9659,F
-U0758,Joe Daniels ,bagyeongsug@naver.com,011-905-5355,M
+U0756, Eric Baird ,ngim@GMAIL.COM,011-512-3030,  Male   
+U0757,  Carrie  Smith   ,haeun94@gmail.com,010-1652-9659,   F 
+U0758,Joe Daniels ,bagyeongsug@naver.com,011-905-5355,   M  
 U0759,Michael Anderson   ,mijeong90@NAVER.COM,010.8624.5080, female 
 U0760,Karen    Edwards  ,fcoe@kakao.com,010.2439.2224,M
-U0761,  Bryan Thompson   ,seonghunbag@NAVER.COM,010.9133.7304, female 
+U0761,  Bryan Thompson   ,seonghunbag@NAVER.COM,010.9133.7304,  female   
 U0762,Melissa    Anderson ,hcoe@daum.net,010-8966-5943, FEMALE
-U0763,Heather    Carrillo ,gyeongsug22@YAHOO.COM,011-465-3225, FEMALE
-U0764,  Michael  Moore,coeyeongjin@yahoo.com,011-615-6074,male
+U0763,Heather    Carrillo ,gyeongsug22@YAHOO.COM,011-465-3225, FEMALE   
+U0764,  Michael  Moore,coeyeongjin@yahoo.com,011-615-6074,male  
 U0765,Julia Myers,seojuni@GMAIL.COM,010 5740 3557, female 
-U0766,   Michael   Porter ,yejin82@daum.net,010 5477 4886,Female
+U0766,   Michael   Porter ,yejin82@daum.net,010 5477 4886,Female   
 U0767,  Miranda   Scott   ,bi@naver.com,010.1897.1444, FEMALE
-U0768,Renee  Bradley,gimyujin@GMAIL.COM,011-651-1002,MALE
-U0769,Christopher Hardin,hyeonjeonggweon@daum.net,010-862-9849,F
-U0770,  Christina   Martin   ,seohyeon15@gmail.com,011-659-8598,M
+U0768,Renee  Bradley,gimyujin@GMAIL.COM,011-651-1002,  MALE 
+U0769,Christopher Hardin,hyeonjeonggweon@daum.net,010-862-9849, F
+U0770,  Christina   Martin   ,seohyeon15@gmail.com,011-659-8598,  M
 U0771, Richard   Wilson   ,junyeong81@NAVER.COM,010 2286 2842,Male 
-U0772,  Austin  Jones  ,junseo78@gmail.com,010 9833 8890,male
-U0773,Kimberly   Stephens,ryuyeongho@naver.com,010 6949 7519, female 
-U0774,   Angelica  Moore   ,junyeongbaeg@YAHOO.COM,010 0501 8830,M
-U0775,Caleb Lopez,jeongnamgim@GMAIL.COM,011-267-2533,MALE
+U0772,  Austin  Jones  ,junseo78@gmail.com,010 9833 8890, male
+U0773,Kimberly   Stephens,ryuyeongho@naver.com,010 6949 7519, female    
+U0774,   Angelica  Moore   ,junyeongbaeg@YAHOO.COM,010 0501 8830,M  
+U0775,Caleb Lopez,jeongnamgim@GMAIL.COM,011-267-2533,MALE 
 U0776, Steve    Baker   ,gimseojun@yahoo.com,010.1295.6650, FEMALE
-U0777,Katherine   Miller,migyeong09@KAKAO.COM,010.6041.0914, FEMALE
-U0778,Jessica Herrera   ,eunjui@NAVER.COM,010.3490.5014,male
-U0779,Nicholas  Cole  ,jueunji@gmail.com,010 0700 5977, FEMALE
+U0777,Katherine   Miller,migyeong09@KAKAO.COM,010.6041.0914, FEMALE 
+U0778,Jessica Herrera   ,eunjui@NAVER.COM,010.3490.5014,  male 
+U0779,Nicholas  Cole  ,jueunji@gmail.com,010 0700 5977, FEMALE   
 U0780, Ronald   Thomas ,iseonghun@yahoo.com,010-9622-3951,Male 
-U0781,  Angela  Bauer   ,sangho08@NAVER.COM,011-997-0419,male
-U0782,Robert  Solomon ,jia25@naver.com,010 3328 8158, FEMALE
-U0783, James   Gonzalez,fcoe@naver.com,010-4857-2202,male
+U0781,  Angela  Bauer   ,sangho08@NAVER.COM,011-997-0419, male 
+U0782,Robert  Solomon ,jia25@naver.com,010 3328 8158,  FEMALE   
+U0783, James   Gonzalez,fcoe@naver.com,010-4857-2202,male  
 U0784,Sara  Edwards,gangyeeun@yahoo.com,011-450-9010,MALE
-U0785,Kimberly   Haynes   ,sujin30@naver.com,011-678-5753,male
-U0786,Jennifer    Miller  ,sinhyeonjun@DAUM.NET,010.5788.5025,M
-U0787,Michael  Owens,minseog41@daum.net,010.9453.1772,Male 
+U0785,Kimberly   Haynes   ,sujin30@naver.com,011-678-5753, male
+U0786,Jennifer    Miller  ,sinhyeonjun@DAUM.NET,010.5788.5025, M
+U0787,Michael  Owens,minseog41@daum.net,010.9453.1772,   Male 
 U0788,Jorge    Bowman,suminryu@yahoo.com,010.6532.6330,M
-U0789,   Gregory   Bryant,gimjunyeong@kakao.com,010-116-1100,MALE
-U0790,   Sean   Parsons,cunjagim@NAVER.COM,011-859-8256,male
-U0791,   Michael    Moore ,mbag@KAKAO.COM,010-599-0767,Female
-U0792,Nicholas Hanson,mijeong99@yahoo.com,011-320-7169,F
+U0789,   Gregory   Bryant,gimjunyeong@kakao.com,010-116-1100,MALE   
+U0790,   Sean   Parsons,cunjagim@NAVER.COM,011-859-8256, male   
+U0791,   Michael    Moore ,mbag@KAKAO.COM,010-599-0767,   Female 
+U0792,Nicholas Hanson,mijeong99@yahoo.com,011-320-7169,F   
 U0793,Joshua    Nguyen,jgim@kakao.com,011-694-6128,F
 U0794,  Latoya Robinson,minsui@yahoo.com,011-956-0070,M
-U0795,Megan  Kent  ,wgim@GMAIL.COM,010-015-0407,Female
-U0796, James  Sullivan  ,seoyeoni@naver.com,010 6649 8013,Male 
-U0797,Ricardo  Dunn,minsu65@kakao.com,010-720-5302,Female
+U0795,Megan  Kent  ,wgim@GMAIL.COM,010-015-0407,   Female
+U0796, James  Sullivan  ,seoyeoni@naver.com,010 6649 8013,   Male 
+U0797,Ricardo  Dunn,minsu65@kakao.com,010-720-5302,Female   
 U0798,  Andrew   Johnson   ,coecunja@GMAIL.COM,010.3738.1932,M
 U0799, Scott Morris,gweonsiu@yahoo.com,010-3838-0001,Female
-U0800,   Gabriel Parsons ,jiago@yahoo.com,011-120-8536,F
-U0801,  Darren    Perry  ,hwangdonghyeon@GMAIL.COM,010-260-8248,F
-U0802,Steven Cunningham,gyeongsugi@daum.net,010-0601-1381,F
-U0803, Elizabeth  Rodriguez,mgang@yahoo.com,010-558-7779,Female
-U0804,  Marcus Cannon ,zgim@kakao.com,010.2146.2022,MALE
-U0805,  Ethan Tran ,minjaehwang@NAVER.COM,010.1881.4301,Female
-U0806,   Kelly Miller,gimsunja@naver.com,010-2329-1893,F
-U0807,   Jeffrey Mcintosh  ,eunjigim@YAHOO.COM,010.5716.7054,F
-U0808,  Allen  Esparza ,zgim@gmail.com,010 2042 4449,Male 
-U0809,Tanya    Hernandez,hyeonjeong59@NAVER.COM,010.4585.6269, FEMALE
+U0800,   Gabriel Parsons ,jiago@yahoo.com,011-120-8536, F
+U0801,  Darren    Perry  ,hwangdonghyeon@GMAIL.COM,010-260-8248,   F
+U0802,Steven Cunningham,gyeongsugi@daum.net,010-0601-1381,F  
+U0803, Elizabeth  Rodriguez,mgang@yahoo.com,010-558-7779,  Female 
+U0804,  Marcus Cannon ,zgim@kakao.com,010.2146.2022,MALE   
+U0805,  Ethan Tran ,minjaehwang@NAVER.COM,010.1881.4301,Female   
+U0806,   Kelly Miller,gimsunja@naver.com,010-2329-1893,F  
+U0807,   Jeffrey Mcintosh  ,eunjigim@YAHOO.COM,010.5716.7054,  F 
+U0808,  Allen  Esparza ,zgim@gmail.com,010 2042 4449,Male   
+U0809,Tanya    Hernandez,hyeonjeong59@NAVER.COM,010.4585.6269, FEMALE 
 U0810,Terry   Cole ,jongsu87@yahoo.com,010-0471-3377,F
-U0811,   Maxwell Brown,vyun@kakao.com,010 5216 3614,M
-U0812, Carla  Collier  ,sanghoyun@DAUM.NET,010.8578.6758, female 
-U0813, Christopher    Mejia   ,ugweon@kakao.com,010.0110.8188,F
-U0814,Chelsea   Jordan ,sgim@gmail.com,010.9568.0785, female 
-U0815,Sharon   Morales   ,haseonghun@daum.net,010 2753 4407,male
+U0811,   Maxwell Brown,vyun@kakao.com,010 5216 3614,   M
+U0812, Carla  Collier  ,sanghoyun@DAUM.NET,010.8578.6758,  female 
+U0813, Christopher    Mejia   ,ugweon@kakao.com,010.0110.8188,F   
+U0814,Chelsea   Jordan ,sgim@gmail.com,010.9568.0785, female   
+U0815,Sharon   Morales   ,haseonghun@daum.net,010 2753 4407, male
 U0816,   Monica   Kelly  ,gimyeongsig@gmail.com,010-286-7419, female 
-U0817,  Tricia    Reid  ,ui@YAHOO.COM,010-642-7198,F
-U0818,  Dr.    Jacob   Wall,ijeongsun@YAHOO.COM,010-639-3065, FEMALE
-U0819,Andrew  Stewart,myeongsug78@KAKAO.COM,010-0547-0444,Female
-U0820,Jason Powell,sgim@daum.net,010.8953.6623, FEMALE
+U0817,  Tricia    Reid  ,ui@YAHOO.COM,010-642-7198, F   
+U0818,  Dr.    Jacob   Wall,ijeongsun@YAHOO.COM,010-639-3065,   FEMALE
+U0819,Andrew  Stewart,myeongsug78@KAKAO.COM,010-0547-0444,Female   
+U0820,Jason Powell,sgim@daum.net,010.8953.6623,    FEMALE
 U0821,Jesse    Phelps,jeongsuni@daum.net,010 4959 4947,Female
-U0822,Jason Rice,vi@gmail.com,010 9155 9709,M
-U0823,Catherine    Brown,seojungim@naver.com,010-7955-6382, female 
-U0824,Tonya    Nelson  ,gweonmisug@kakao.com,010.6634.5405, female 
-U0825,   Robert Patel   ,seonghyeongim@kakao.com,010 4212 1135, female 
-U0826,  Joshua  Tanner ,gyeongja18@naver.com,010-260-5646,Female
-U0827,Michael  Berg  ,seungmin54@gmail.com,010-3836-3947,M
-U0828,Travis Hendricks   ,bagsangho@naver.com,010-7674-0969, FEMALE
-U0829,William  Stephenson   ,goyeongmi@DAUM.NET,011-729-2705,male
-U0830,   Daniel Smith  ,wi@naver.com,010-0518-4603,F
-U0831,Joyce   Moore,ggim@yahoo.com,011-245-2298,Male 
-U0832,Brian Santos,sumin99@kakao.com,010.1497.4491, female 
+U0822,Jason Rice,vi@gmail.com,010 9155 9709,  M 
+U0823,Catherine    Brown,seojungim@naver.com,010-7955-6382,    female 
+U0824,Tonya    Nelson  ,gweonmisug@kakao.com,010.6634.5405,   female   
+U0825,   Robert Patel   ,seonghyeongim@kakao.com,010 4212 1135, female  
+U0826,  Joshua  Tanner ,gyeongja18@naver.com,010-260-5646,  Female   
+U0827,Michael  Berg  ,seungmin54@gmail.com,010-3836-3947,M   
+U0828,Travis Hendricks   ,bagsangho@naver.com,010-7674-0969,  FEMALE
+U0829,William  Stephenson   ,goyeongmi@DAUM.NET,011-729-2705, male   
+U0830,   Daniel Smith  ,wi@naver.com,010-0518-4603,  F 
+U0831,Joyce   Moore,ggim@yahoo.com,011-245-2298,  Male   
+U0832,Brian Santos,sumin99@kakao.com,010.1497.4491,  female   
 U0833, Melissa    Francis   ,bagjieun@GMAIL.COM,010 6597 2256,Female
-U0834,Thomas Ramos,hyejin29@gmail.com,010-796-0062,M
+U0834,Thomas Ramos,hyejin29@gmail.com,010-796-0062, M 
 U0835,Todd Watson,nheo@DAUM.NET,010-4978-5916,Male 
-U0836,Margaret   Howard   ,jiweon74@kakao.com,011-951-5024,male
-U0837,Robert    Bell ,imiyeong@naver.com,011-998-9995, FEMALE
+U0836,Margaret   Howard   ,jiweon74@kakao.com,011-951-5024,male  
+U0837,Robert    Bell ,imiyeong@naver.com,011-998-9995,  FEMALE
 U0838,   John   Galvan,junhyeogbag@daum.net,010-019-4251,MALE
-U0839,  John    Black,bo@GMAIL.COM,010.5974.9614,male
-U0840,Melissa Craig,seonghyeonjang@daum.net,011-819-5737, FEMALE
-U0841,  Stephanie   Velasquez  ,seonghoi@daum.net,011-517-4532,MALE
-U0842,Donald Nguyen  ,gimminseog@DAUM.NET,010-027-7337, female 
-U0843,Cody    Drake   ,misuggim@gmail.com,011-904-5050,F
-U0844,Karen    Watson  ,oan@gmail.com,010 2583 0438,MALE
-U0845,Justin  Gilmore  ,jeongja15@KAKAO.COM,010 3385 0170,Male 
-U0846,Roy   Wilson,gimyeongjin@gmail.com,010-2801-8808, FEMALE
+U0839,  John    Black,bo@GMAIL.COM,010.5974.9614,   male  
+U0840,Melissa Craig,seonghyeonjang@daum.net,011-819-5737,   FEMALE  
+U0841,  Stephanie   Velasquez  ,seonghoi@daum.net,011-517-4532, MALE  
+U0842,Donald Nguyen  ,gimminseog@DAUM.NET,010-027-7337,  female  
+U0843,Cody    Drake   ,misuggim@gmail.com,011-904-5050,F   
+U0844,Karen    Watson  ,oan@gmail.com,010 2583 0438, MALE 
+U0845,Justin  Gilmore  ,jeongja15@KAKAO.COM,010 3385 0170,Male    
+U0846,Roy   Wilson,gimyeongjin@gmail.com,010-2801-8808,   FEMALE  
 U0847,   Jesse  Kelly,gimsunog@daum.net,011-871-2920,Female
-U0848,Benjamin  Benitez,sumingim@YAHOO.COM,011-391-4501, female 
+U0848,Benjamin  Benitez,sumingim@YAHOO.COM,011-391-4501, female   
 U0849, Jerry Anderson,jeongnam68@yahoo.com,011-861-4165,Female
-U0850, Karen  Simmons,miyeongyun@KAKAO.COM,011-748-4341,Male 
-U0851,  Keith  Barnes,nim@yahoo.com,010-856-4551,male
+U0850, Karen  Simmons,miyeongyun@KAKAO.COM,011-748-4341, Male 
+U0851,  Keith  Barnes,nim@yahoo.com,010-856-4551,male   
 U0852,Christopher Mendoza  ,sujin00@naver.com,011-012-4489,male
-U0853,  Kevin    Brown,coejeongja@gmail.com,010.0650.2959,male
-U0854,  Andrew   Arnold,eunju68@naver.com,011-677-7121,Female
-U0855,  Robert Floyd   ,jeonghyii@gmail.com,010 3650 6222,F
-U0856,Kenneth  Smith,hyeonu49@NAVER.COM,010-065-0334, female 
-U0857,  Alyssa  Trujillo,gimmijeong@yahoo.com,010 3026 3147,MALE
-U0858, Sarah Walsh,jhwang@naver.com,010-493-4528, female 
-U0859,   Jonathan Mason,yeongsug74@naver.com,010.8237.5520, FEMALE
-U0860,Christian   Rogers,hyeonjeongbag@naver.com,010-2565-2656,M
-U0861,  Michael   Carr,ehwang@yahoo.com,011-095-0217,M
-U0862,  Douglas    Schmitt   ,seongsucoe@kakao.com,010-924-7130,MALE
+U0853,  Kevin    Brown,coejeongja@gmail.com,010.0650.2959,male  
+U0854,  Andrew   Arnold,eunju68@naver.com,011-677-7121,Female 
+U0855,  Robert Floyd   ,jeonghyii@gmail.com,010 3650 6222,F   
+U0856,Kenneth  Smith,hyeonu49@NAVER.COM,010-065-0334,    female    
+U0857,  Alyssa  Trujillo,gimmijeong@yahoo.com,010 3026 3147,   MALE  
+U0858, Sarah Walsh,jhwang@naver.com,010-493-4528, female   
+U0859,   Jonathan Mason,yeongsug74@naver.com,010.8237.5520, FEMALE  
+U0860,Christian   Rogers,hyeonjeongbag@naver.com,010-2565-2656,   M  
+U0861,  Michael   Carr,ehwang@yahoo.com,011-095-0217,M   
+U0862,  Douglas    Schmitt   ,seongsucoe@kakao.com,010-924-7130,  MALE
 U0863,Barry    Davidson   ,hwanghayun@NAVER.COM,011-316-2930,male
-U0864,Randy   Rich,zhong@yahoo.com,011-176-1563,Male 
-U0865, John   Blanchard  ,gimyeongho@kakao.com,010 8691 7520,Female
-U0866,Daniel   Jensen,sanghun98@naver.com,010 8082 7790,F
-U0867,Philip   Ramirez,ujin43@naver.com,010 5080 6897,M
+U0864,Randy   Rich,zhong@yahoo.com,011-176-1563, Male 
+U0865, John   Blanchard  ,gimyeongho@kakao.com,010 8691 7520,   Female
+U0866,Daniel   Jensen,sanghun98@naver.com,010 8082 7790,F 
+U0867,Philip   Ramirez,ujin43@naver.com,010 5080 6897,M   
 U0868,   Zachary   Odom,nheo@daum.net,010-3965-1204,Female
 U0869,Ronnie Allen,jeonghun43@gmail.com,011-313-5596,F
-U0870,Sandra    Davis,yeongsig19@daum.net,010-500-6003, FEMALE
-U0871,Kenneth Ford,cunjanam@gmail.com,011-072-9876,MALE
+U0870,Sandra    Davis,yeongsig19@daum.net,010-500-6003, FEMALE  
+U0871,Kenneth Ford,cunjanam@gmail.com,011-072-9876, MALE   
 U0872,David   Odonnell   ,vcoe@yahoo.com,010-8847-2109,male
-U0873,Christopher Rogers,mijeong59@naver.com,010-160-8235, female 
-U0874,   Andrea  Jackson   ,coehaeun@gmail.com,010-128-2873,Male 
-U0875,Lindsey    Johnson,seongmin50@GMAIL.COM,010.2908.4312,Male 
-U0876,Melissa   Sanford,subin81@GMAIL.COM,010-2082-3947,F
-U0877,  Alice  King  ,oi@GMAIL.COM,011-693-0498, female 
-U0878,Thomas  Simmons,yeongil65@naver.com,010.0322.9832,F
-U0879, Selena Flores,migyeong14@kakao.com,010.0783.2106,MALE
-U0880,  Lindsey   Richardson   ,ihayun@yahoo.com,010 8543 4385,male
-U0881, Raymond   Smith   ,yujin19@daum.net,010-8023-3255,M
-U0882, Christopher Knight,gimogja@naver.com,010.6901.3802,Female
-U0883,Kathleen    Williams ,seongmin61@gmail.com,010.5725.0523,M
-U0884,Lisa  Carpenter   ,ogsunjang@kakao.com,010-9308-8434,MALE
-U0885,   Matthew    Rodriguez ,phwang@gmail.com,010-365-9232,Male 
-U0886, Eric    Gray ,fo@GMAIL.COM,010 7512 2692,M
+U0873,Christopher Rogers,mijeong59@naver.com,010-160-8235, female   
+U0874,   Andrea  Jackson   ,coehaeun@gmail.com,010-128-2873,   Male 
+U0875,Lindsey    Johnson,seongmin50@GMAIL.COM,010.2908.4312,Male  
+U0876,Melissa   Sanford,subin81@GMAIL.COM,010-2082-3947,  F 
+U0877,  Alice  King  ,oi@GMAIL.COM,011-693-0498,    female   
+U0878,Thomas  Simmons,yeongil65@naver.com,010.0322.9832, F
+U0879, Selena Flores,migyeong14@kakao.com,010.0783.2106, MALE   
+U0880,  Lindsey   Richardson   ,ihayun@yahoo.com,010 8543 4385, male   
+U0881, Raymond   Smith   ,yujin19@daum.net,010-8023-3255,  M
+U0882, Christopher Knight,gimogja@naver.com,010.6901.3802,Female   
+U0883,Kathleen    Williams ,seongmin61@gmail.com,010.5725.0523, M
+U0884,Lisa  Carpenter   ,ogsunjang@kakao.com,010-9308-8434,  MALE
+U0885,   Matthew    Rodriguez ,phwang@gmail.com,010-365-9232,  Male 
+U0886, Eric    Gray ,fo@GMAIL.COM,010 7512 2692,   M 
 U0887, Steven Fernandez,ogjabag@kakao.com,010 2183 7230,MALE
-U0888,Jasmine  Levy ,bsim@DAUM.NET,010 5208 5179, female 
-U0889,Donna  Andrews,gimgwangsu@YAHOO.COM,010-469-6154,F
-U0890,  James    Saunders ,vi@yahoo.com,010-580-7738,M
+U0888,Jasmine  Levy ,bsim@DAUM.NET,010 5208 5179,   female    
+U0889,Donna  Andrews,gimgwangsu@YAHOO.COM,010-469-6154,  F
+U0890,  James    Saunders ,vi@yahoo.com,010-580-7738,M 
 U0891,Danielle  Walsh,eju@daum.net,011-654-0909, FEMALE
-U0892,Paula   Green,sanghyeongim@daum.net,010 4331 1314,M
-U0893,Tommy Douglas,minjae05@daum.net,010 1392 3532,Female
-U0894,  John  Johnson ,vyun@gmail.com,010.5044.6976,Male 
-U0895,Brenda    Baird ,nameunji@yahoo.com,010 2607 6114,male
+U0892,Paula   Green,sanghyeongim@daum.net,010 4331 1314, M  
+U0893,Tommy Douglas,minjae05@daum.net,010 1392 3532,Female   
+U0894,  John  Johnson ,vyun@gmail.com,010.5044.6976,  Male 
+U0895,Brenda    Baird ,nameunji@yahoo.com,010 2607 6114,male  
 U0896,  Christopher Sharp   ,gimsanghyeon@naver.com,010 1656 5191,M
-U0897,   Michelle   Ross,seongsugim@kakao.com,010-2891-4883,Female
+U0897,   Michelle   Ross,seongsugim@kakao.com,010-2891-4883,Female   
 U0898,Dustin   Jordan ,yeongsugi@daum.net,010.8544.7604,MALE
-U0899,Jack  Kelly,hyejingang@daum.net,010.0882.8801,male
-U0900, Susan    Rogers,seongsangho@DAUM.NET,010.0441.6176,M
-U0901, Kristen  Solomon,jeonghoju@yahoo.com,010.2832.1564,F
-U0902,   Rhonda  Walker,jeonsanghyeon@NAVER.COM,010.0663.8894,M
+U0899,Jack  Kelly,hyejingang@daum.net,010.0882.8801, male 
+U0900, Susan    Rogers,seongsangho@DAUM.NET,010.0441.6176, M
+U0901, Kristen  Solomon,jeonghoju@yahoo.com,010.2832.1564, F
+U0902,   Rhonda  Walker,jeonsanghyeon@NAVER.COM,010.0663.8894,  M
 U0903,   Dawn James   ,jangjeongsug@kakao.com,010 5789 6886,F
 U0904,Jay Koch ,jaehojang@daum.net,011-949-4488, FEMALE
-U0905, Donna Pena  ,yeongjabag@KAKAO.COM,010-529-8660, FEMALE
+U0905, Donna Pena  ,yeongjabag@KAKAO.COM,010-529-8660,  FEMALE  
 U0906,Leah Harris ,tcoe@kakao.com,010-979-2003, FEMALE
-U0907,Katherine  Mason,iujin@kakao.com,011-466-4554,Male 
+U0907,Katherine  Mason,iujin@kakao.com,011-466-4554,Male  
 U0908,Mrs.   Andrea    Yang,sgim@GMAIL.COM,010.6911.3275,F
-U0909,Michelle   Guzman,kseo@kakao.com,011-640-7238,male
-U0910,Susan    Gilbert   ,bageunyeong@daum.net,010.0034.8957, FEMALE
-U0911, Virginia Ramirez   ,li@kakao.com,010.2095.1603,F
-U0912,Isaac  Morgan,seonyeongi@NAVER.COM,010 7218 4717,Female
-U0913,  Collin  Rosario ,caeweonjin@gmail.com,010.3591.0118,MALE
+U0909,Michelle   Guzman,kseo@kakao.com,011-640-7238,male   
+U0910,Susan    Gilbert   ,bageunyeong@daum.net,010.0034.8957,    FEMALE
+U0911, Virginia Ramirez   ,li@kakao.com,010.2095.1603, F
+U0912,Isaac  Morgan,seonyeongi@NAVER.COM,010 7218 4717,Female 
+U0913,  Collin  Rosario ,caeweonjin@gmail.com,010.3591.0118,   MALE  
 U0914,Mary    Ellis,sanghogim@NAVER.COM,011-493-2109, female 
-U0915, Harry    Parks ,qhan@kakao.com,011-703-9319, female 
-U0916,Becky Odonnell,ggim@NAVER.COM,010.8624.2114,F
-U0917,William  Herrera,eungyeongi@naver.com,010-875-1482,Female
-U0918,Francisco Avila  ,tgwag@naver.com,010.4928.0074,Female
-U0919,  Adrian  Moore ,yujin04@daum.net,010-8878-2253, female 
-U0920,Brandy Malone,yeongjagim@yahoo.com,010.4725.7061, FEMALE
-U0921,   Michael   Bradford   ,ogsun67@NAVER.COM,010 8477 4887,MALE
-U0922, Leah Vega ,ryang@yahoo.com,010 0116 9806, female 
-U0923,  Heather  Jenkins,jungsuheo@gmail.com,011-958-0822,F
-U0924,Lisa   Turner  ,jeongsig67@GMAIL.COM,011-095-5427,Male 
-U0925,  Patricia  Price,baejeongsun@GMAIL.COM,010.2740.8522,Female
+U0915, Harry    Parks ,qhan@kakao.com,011-703-9319,    female  
+U0916,Becky Odonnell,ggim@NAVER.COM,010.8624.2114,   F
+U0917,William  Herrera,eungyeongi@naver.com,010-875-1482, Female
+U0918,Francisco Avila  ,tgwag@naver.com,010.4928.0074, Female
+U0919,  Adrian  Moore ,yujin04@daum.net,010-8878-2253,    female 
+U0920,Brandy Malone,yeongjagim@yahoo.com,010.4725.7061,  FEMALE  
+U0921,   Michael   Bradford   ,ogsun67@NAVER.COM,010 8477 4887,MALE 
+U0922, Leah Vega ,ryang@yahoo.com,010 0116 9806, female    
+U0923,  Heather  Jenkins,jungsuheo@gmail.com,011-958-0822,F   
+U0924,Lisa   Turner  ,jeongsig67@GMAIL.COM,011-095-5427,Male    
+U0925,  Patricia  Price,baejeongsun@GMAIL.COM,010.2740.8522, Female
 U0926,Erin   Velez,aseo@naver.com,010.0225.4410, FEMALE
 U0927,Melissa    Thomas,hayunji@daum.net,010-1071-6159, female 
-U0928,   Matthew  Ortiz,sinyeongja@daum.net,010-653-0121,Male 
-U0929,   David  Cooper   ,eyun@yahoo.com,010-0754-8914,Male 
-U0930,  Steven    West,seongsu37@naver.com,011-954-8548,MALE
+U0928,   Matthew  Ortiz,sinyeongja@daum.net,010-653-0121,   Male    
+U0929,   David  Cooper   ,eyun@yahoo.com,010-0754-8914,   Male 
+U0930,  Steven    West,seongsu37@naver.com,011-954-8548,MALE  
 U0931,Derek Miller,ajang@KAKAO.COM,010 3757 5976,MALE
-U0932,  Alexandra  Blackburn  ,yeonghobag@GMAIL.COM,010-0354-7744,M
-U0933,  Denise    Harvey,sgim@kakao.com,010-858-9015,M
+U0932,  Alexandra  Blackburn  ,yeonghobag@GMAIL.COM,010-0354-7744,M 
+U0933,  Denise    Harvey,sgim@kakao.com,010-858-9015,   M 
 U0934,Mary Haley,jiu80@yahoo.com,010.3772.5190, female 
-U0935,Stephen  Bowen,yeweon69@naver.com,010-148-6698, FEMALE
-U0936,Victor   Becker,jeonghun03@DAUM.NET,010-3774-8619,MALE
+U0935,Stephen  Bowen,yeweon69@naver.com,010-148-6698,    FEMALE
+U0936,Victor   Becker,jeonghun03@DAUM.NET,010-3774-8619,MALE 
 U0937,   Susan Wheeler  ,hjo@gmail.com,010 8326 6422,Female
-U0938,   Ann    Lynch,yeongho60@daum.net,010 4866 3016,male
+U0938,   Ann    Lynch,yeongho60@daum.net,010 4866 3016,   male
 U0939, Malik Jones,seoyeon19@naver.com,010.6203.6461,MALE
-U0940,Lisa    Cantrell,sanghyeon13@DAUM.NET,010-2671-1375, FEMALE
+U0940,Lisa    Cantrell,sanghyeon13@DAUM.NET,010-2671-1375,   FEMALE 
 U0941,Jacob Baker  ,ibag@naver.com,011-606-6788,male
-U0942, Jordan   Stevens,junseo81@naver.com,010-1834-8840, FEMALE
+U0942, Jordan   Stevens,junseo81@naver.com,010-1834-8840,   FEMALE
 U0943, Jordan    Beck  ,iogja@daum.net,011-388-7836,M
-U0944,  Kayla    Bates ,jeonghun19@daum.net,010-9657-0683,male
-U0945,Justin    Holden  ,gimyeonggil@naver.com,010 8560 6615,F
-U0946,   April    Burnett ,fgim@kakao.com,010-2501-1824,Male 
-U0947,Mrs.   Melissa  Johnson    MD ,mijeongyun@naver.com,010.9528.9656,F
+U0944,  Kayla    Bates ,jeonghun19@daum.net,010-9657-0683,male  
+U0945,Justin    Holden  ,gimyeonggil@naver.com,010 8560 6615,F  
+U0946,   April    Burnett ,fgim@kakao.com,010-2501-1824,Male    
+U0947,Mrs.   Melissa  Johnson    MD ,mijeongyun@naver.com,010.9528.9656,  F
 U0948,Matthew  Norman   ,aan@daum.net,010-519-0555,M
-U0949,Paul    Sutton  ,yeongjingang@naver.com,010 2517 7913,male
-U0950,   Lynn Simmons  ,hi@naver.com,011-008-9521,M
-U0951,Antonio   Boyd,jeongung48@kakao.com,011-331-6997, female 
-U0952,Daniel   Bridges ,seongmingim@GMAIL.COM,010-7061-6353,male
-U0953,Caroline Williams   ,sanghyeon56@naver.com,010-724-5961,MALE
-U0954,   David    Esparza ,jongsugim@yahoo.com,010.6517.7445, female 
+U0949,Paul    Sutton  ,yeongjingang@naver.com,010 2517 7913,   male
+U0950,   Lynn Simmons  ,hi@naver.com,011-008-9521, M
+U0951,Antonio   Boyd,jeongung48@kakao.com,011-331-6997,   female   
+U0952,Daniel   Bridges ,seongmingim@GMAIL.COM,010-7061-6353,   male
+U0953,Caroline Williams   ,sanghyeon56@naver.com,010-724-5961,MALE  
+U0954,   David    Esparza ,jongsugim@yahoo.com,010.6517.7445,   female   
 U0955, Jesse    Brown,hyeonjeonghwang@daum.net,010.5150.2701,MALE
-U0956,Christopher Poole   ,sanghun07@KAKAO.COM,011-048-6550,MALE
-U0957,Joseph Newman   ,yeonghoi@NAVER.COM,010 1373 3374,Male 
-U0958,Ellen  Green   ,caeweon36@yahoo.com,010-560-7161,Female
-U0959,Phillip Robbins   ,yunseohan@daum.net,010-340-3234, FEMALE
-U0960,Sandra    Calderon,gyeongja25@kakao.com,010.1816.8379,MALE
+U0956,Christopher Poole   ,sanghun07@KAKAO.COM,011-048-6550,   MALE   
+U0957,Joseph Newman   ,yeonghoi@NAVER.COM,010 1373 3374,Male  
+U0958,Ellen  Green   ,caeweon36@yahoo.com,010-560-7161,Female  
+U0959,Phillip Robbins   ,yunseohan@daum.net,010-340-3234,    FEMALE   
+U0960,Sandra    Calderon,gyeongja25@kakao.com,010.1816.8379, MALE
 U0961,Pamela  Phillips ,yeongmigo@daum.net,011-331-8429,male
-U0962,   Hannah Ramirez,migyeonggim@yahoo.com,010-374-7567,Male 
-U0963,Natasha   Barrera   ,mungeonu@naver.com,010.7444.2713,MALE
-U0964,  Thomas  Brown,tbag@kakao.com,010-7092-6218,MALE
-U0965,Russell    Martin   ,jgim@DAUM.NET,010 7191 3386,Male 
-U0966,Patricia   Jenkins,fi@YAHOO.COM,011-674-3537, female 
-U0967,Crystal   Sexton,nammiyeong@GMAIL.COM,011-286-2729,MALE
+U0962,   Hannah Ramirez,migyeonggim@yahoo.com,010-374-7567, Male  
+U0963,Natasha   Barrera   ,mungeonu@naver.com,010.7444.2713,   MALE
+U0964,  Thomas  Brown,tbag@kakao.com,010-7092-6218,  MALE
+U0965,Russell    Martin   ,jgim@DAUM.NET,010 7191 3386, Male 
+U0966,Patricia   Jenkins,fi@YAHOO.COM,011-674-3537, female    
+U0967,Crystal   Sexton,nammiyeong@GMAIL.COM,011-286-2729,   MALE  
 U0968,   Chad  Jackson,jmin@naver.com,011-557-2217,F
-U0969,Christopher   Hendricks   ,seoyunyun@naver.com,010-0464-1907, FEMALE
-U0970,Jennifer  Warner,ryujunho@kakao.com,010-213-7860,Male 
-U0971,Michael   Barr MD,myeongsugsong@naver.com,010-971-8806,M
-U0972,Joshua    Cervantes,eunjugo@yahoo.com,011-656-3159,F
-U0973,James   Lara ,jinhoson@daum.net,010.4936.3269,MALE
+U0969,Christopher   Hendricks   ,seoyunyun@naver.com,010-0464-1907,   FEMALE
+U0970,Jennifer  Warner,ryujunho@kakao.com,010-213-7860, Male  
+U0971,Michael   Barr MD,myeongsugsong@naver.com,010-971-8806, M
+U0972,Joshua    Cervantes,eunjugo@yahoo.com,011-656-3159,  F 
+U0973,James   Lara ,jinhoson@daum.net,010.4936.3269,   MALE   
 U0974, Travis Farrell ,seonghyeon96@daum.net,010-793-8495,MALE
-U0975,Miss  Mary   Hall  ,gimminseog@daum.net,010-8069-1671, FEMALE
-U0976, Holly   Gonzalez,seonyeongbag@GMAIL.COM,010 0603 7754,M
+U0975,Miss  Mary   Hall  ,gimminseog@daum.net,010-8069-1671,    FEMALE   
+U0976, Holly   Gonzalez,seonyeongbag@GMAIL.COM,010 0603 7754,M   
 U0977,   Joel   Herring  ,jeongungsim@yahoo.com,010-8372-5411,Male 
-U0978,Katrina Willis,ui@gmail.com,011-997-9081, FEMALE
-U0979,Tyrone  Foster,yeongil20@daum.net,010.6725.5078, FEMALE
-U0980,Crystal  Curtis,gweonjeongung@KAKAO.COM,010.0109.8586,F
-U0981,Lisa   Wilson  ,geonu25@naver.com,010-0094-4840, FEMALE
-U0982,   David    Brown   ,bagjeongho@kakao.com,010-939-3230,male
-U0983,  Teresa Flores  ,gimyeonghyi@KAKAO.COM,010-5029-0596, female 
+U0978,Katrina Willis,ui@gmail.com,011-997-9081,  FEMALE
+U0979,Tyrone  Foster,yeongil20@daum.net,010.6725.5078, FEMALE  
+U0980,Crystal  Curtis,gweonjeongung@KAKAO.COM,010.0109.8586,  F
+U0981,Lisa   Wilson  ,geonu25@naver.com,010-0094-4840,  FEMALE
+U0982,   David    Brown   ,bagjeongho@kakao.com,010-939-3230,male   
+U0983,  Teresa Flores  ,gimyeonghyi@KAKAO.COM,010-5029-0596,    female 
 U0984,Bryan  Carlson,gimminseo@yahoo.com,010-927-8849,male
-U0985,Kathryn   Garcia,jinhoo@YAHOO.COM,010.9263.2677, FEMALE
-U0986,Diana  Curtis,oim@kakao.com,010-246-2957,F
-U0987,   Manuel   Cunningham ,gimsiu@yahoo.com,011-204-9370,Female
+U0985,Kathryn   Garcia,jinhoo@YAHOO.COM,010.9263.2677, FEMALE 
+U0986,Diana  Curtis,oim@kakao.com,010-246-2957, F 
+U0987,   Manuel   Cunningham ,gimsiu@yahoo.com,011-204-9370,Female  
 U0988,  Rebecca Gonzalez  ,ygim@daum.net,010 7277 0753,M
-U0989,  Michael  Elliott  ,sanghyeoncoe@kakao.com,010.2740.4758, female 
+U0989,  Michael  Elliott  ,sanghyeoncoe@kakao.com,010.2740.4758,    female    
 U0990,  Elizabeth  Smith,gimdonghyeon@yahoo.com,010-907-4144,M
-U0991,   Patrick   Parks,ci@yahoo.com,010-421-0614,Female
-U0992,Ashley Tyler ,iyeongsig@GMAIL.COM,010 3058 8399,F
-U0993,Claudia  Mckenzie,simjiweon@gmail.com,010.7499.4845,F
+U0991,   Patrick   Parks,ci@yahoo.com,010-421-0614,  Female 
+U0992,Ashley Tyler ,iyeongsig@GMAIL.COM,010 3058 8399,F  
+U0993,Claudia  Mckenzie,simjiweon@gmail.com,010.7499.4845,   F
 U0994,   Karen  Bell  ,gimyeongsu@naver.com,010-688-7095,MALE
-U0995,William  Smith,yunjihyeon@yahoo.com,011-636-6300,M
-U0996, Shelley   Hill,gimyeongmi@kakao.com,010-348-4753, FEMALE
-U0997,Sarah    Fuller,jangseonghun@naver.com,010-8170-2689,Male 
-U0998,Mrs. Anita Foley   ,iseo@GMAIL.COM,010.6316.7432,M
-U0999,Alexandra  Huang,jangyeongceol@DAUM.NET,010-2351-9957,M
+U0995,William  Smith,yunjihyeon@yahoo.com,011-636-6300,  M
+U0996, Shelley   Hill,gimyeongmi@kakao.com,010-348-4753, FEMALE 
+U0997,Sarah    Fuller,jangseonghun@naver.com,010-8170-2689,Male    
+U0998,Mrs. Anita Foley   ,iseo@GMAIL.COM,010.6316.7432,M   
+U0999,Alexandra  Huang,jangyeongceol@DAUM.NET,010-2351-9957,M 
 U1000, Matthew   Stewart   ,myeongsug12@gmail.com,010-1778-2389,F
